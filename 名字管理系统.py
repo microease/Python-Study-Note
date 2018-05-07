@@ -1,6 +1,7 @@
 #coding=utf-8
 names = []
 while True:
+	print(names)
 	print("-"*50)
 	print("名字管理系统")
 	print("1:添加一个新的名字")
@@ -13,11 +14,14 @@ while True:
 	if num == 1:
 		new_name = input("请输入新的名字：")
 		names.append(new_name)
-		print(names)
 	elif num == 2:
-		pass
+		del_name = input("请输入您要删除的名字：")
+		names.remove(del_name)
 	elif num == 3:
-		pass
+		modify_name = input("请输入您要修改的名字:")
+		modify_nameId = names.index(modify_name)
+		modify_name2 = input("请输入您想要修改的名字：")
+		names[modify_nameId] = modify_name2
 	elif num == 4:
 		find_name = input("请输入您要查询的名字：")
 		if find_name in names:

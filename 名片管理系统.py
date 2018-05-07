@@ -46,12 +46,15 @@ while True:
 				print(temp)
 	elif num == 4:
 		find_name = input("请输入您要查找的名字:")
+		find_flag = 0
 		for temp in card_info:
 			if find_name == temp["name"]:
 				print("您找的名字在字典中,具体信息如下：")
 				print("名字\t微信\t电话\t地址")
 				print("%s\t%s\t%s\t%s"%(temp['name'],temp['wechat'],temp['phoneNumber'],temp['address']))
-			else:
+				find_flag = 1
+				break
+		if find_flag == 0:
 				print("查无此人")
 	elif num == 5:
 		print("名字\t微信\t电话\t地址")

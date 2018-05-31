@@ -22,6 +22,7 @@ def parseOnePage(html):
     pattern = re.compile('<dd>.*?board-index.*?>(\d+)</i>.*?data-src="(.*?)".*?name"><a.*?>(.*?)</a>.*?star">(.*?)</p>.*?releasetime">(.*?)</p>.*?integer">(.*?)</i>.*?fraction">(.*?)</i>.*?</dd>',re.S)
 #用正则表达式获取页面所需要的内容
     items = re.findall(pattern,html)
+    print(items)
     for item in items:
         yield{
             '排名': item[0],

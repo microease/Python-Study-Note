@@ -5,3 +5,26 @@
 # 程序分析：请利用数轴来分界，定位。注意定义时需把奖金定义成长整型。
 #coding=utf-8
 i = int(raw_input("请输入净利润"))
+
+# 实例(Python
+# 2.0 +)
+# # !/usr/bin/python
+# # -*- coding: UTF-8 -*-
+#
+# i = int(raw_input('净利润:'))
+# arr = [1000000, 600000, 400000, 200000, 100000, 0]
+# rat = [0.01, 0.015, 0.03, 0.05, 0.075, 0.1]
+# r = 0
+# for idx in range(0, 6):
+#     if i > arr[idx]:
+#         r += (i - arr[idx]) * rat[idx]
+#         print(i - arr[idx]) * rat[idx]
+#         i = arr[idx]
+# print
+# r
+# 以上实例输出结果为：
+#
+# 净利润: 120000
+# 1500.0
+# 10000.0
+# 11500.0

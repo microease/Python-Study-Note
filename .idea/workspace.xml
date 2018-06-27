@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169b4cb-a2b3-4e57-992b-e7a2e6f677ce" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/006Lintcode/01/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/006Lintcode/01/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003菜鸟教程_Python100例/006.py" beforeDir="false" afterPath="$PROJECT_DIR$/003菜鸟教程_Python100例/006.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,21 +18,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="定时关机.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002个人项目/定时关机/定时关机.py">
+      <file leaf-file-name="01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/006Lintcode/01/01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="260">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/006Lintcode/01/01.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="006.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/003菜鸟教程_Python100例/006.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -51,9 +53,9 @@
       <list>
         <option value="$PROJECT_DIR$/003菜鸟教程_Python100例/005.py" />
         <option value="$PROJECT_DIR$/003菜鸟教程_Python100例/001ok.py" />
-        <option value="$PROJECT_DIR$/003菜鸟教程_Python100例/006.py" />
         <option value="$PROJECT_DIR$/002个人项目/定时关机/定时关机.py" />
         <option value="$PROJECT_DIR$/006Lintcode/01/01.py" />
+        <option value="$PROJECT_DIR$/003菜鸟教程_Python100例/006.py" />
       </list>
     </option>
   </component>
@@ -66,7 +68,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="58" />
     <option name="y" value="61" />
     <option name="width" value="1280" />
@@ -78,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,25 +90,20 @@
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="006Lintcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="006Lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="003菜鸟教程_Python100例" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +168,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration>C:\Users\pc\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -221,6 +217,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/002个人项目/定时关机/定时关机.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006Lintcode/01/01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/定时关机/定时关机.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding>
@@ -252,13 +261,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/003菜鸟教程_Python100例/003ok.py" />
-    <entry file="file://$PROJECT_DIR$/003菜鸟教程_Python100例/006.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/003菜鸟教程_Python100例/005ok.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -268,7 +270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/002个人项目/定时关机/定时关机.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
+        <state relative-caret-position="572">
           <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -277,7 +279,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/006Lintcode/01/01.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003菜鸟教程_Python100例/006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

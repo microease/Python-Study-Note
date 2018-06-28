@@ -3,7 +3,7 @@ import urllib, time
 from io import StringIO
 import pycurl
 def get_http_status(url):
-    html = StringIO.StringIO()
+    html = StringIO()
     c = pycurl.Curl()
     myurl = url
     c.setopt(pycurl.URL, myurl)

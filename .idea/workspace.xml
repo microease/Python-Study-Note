@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169b4cb-a2b3-4e57-992b-e7a2e6f677ce" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/008PythonTip/013ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/014ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/015ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008PythonTip/020.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +24,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$005.coverage" NAME="005 Coverage Results" MODIFIED="1530109222668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$007.coverage" NAME="007 Coverage Results" MODIFIED="1530105130397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$004.coverage" NAME="004 Coverage Results" MODIFIED="1530109505106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$020.coverage" NAME="020 Coverage Results" MODIFIED="1530146111146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$.coverage" NAME="定时关机 Coverage Results" MODIFIED="1530068428370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/定时关机" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$011.coverage" NAME="011 Coverage Results" MODIFIED="1530120231963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$013.coverage" NAME="013 Coverage Results" MODIFIED="1530144651693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
@@ -35,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="019.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/008PythonTip/019.py">
+      <file leaf-file-name="020.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/008PythonTip/020.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="299">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,6 +80,7 @@
         <option value="$PROJECT_DIR$/008PythonTip/014.py" />
         <option value="$PROJECT_DIR$/008PythonTip/015.py" />
         <option value="$PROJECT_DIR$/008PythonTip/019.py" />
+        <option value="$PROJECT_DIR$/008PythonTip/020.py" />
       </list>
     </option>
   </component>
@@ -144,26 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.019OK">
-    <configuration name="012" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/008PythonTip" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.020">
     <configuration name="013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,20 +220,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="020" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/008PythonTip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/020ok.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.012" />
       <item itemvalue="Python.013" />
       <item itemvalue="Python.014" />
       <item itemvalue="Python.015" />
       <item itemvalue="Python.019OK" />
+      <item itemvalue="Python.020" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.020" />
         <item itemvalue="Python.019OK" />
         <item itemvalue="Python.015" />
         <item itemvalue="Python.014" />
         <item itemvalue="Python.013" />
-        <item itemvalue="Python.012" />
       </list>
     </recent_temporary>
   </component>
@@ -280,9 +279,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21731749" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21731749" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20193861" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20193861" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -531,10 +530,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/008PythonTip/019.py">
+    <entry file="file://$PROJECT_DIR$/008PythonTip/019ok.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/008PythonTip/020.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,7 @@ import re
 pages=set()  
 def getLinks(pageUrl):  
     global pages  
-    html=urlopen("https://guanwangdaquan.com"+pageUrl)  
+    html=urlopen("https://00005guanwangdaquan.com"+pageUrl)  
     bsObj=BeautifulSoup(html,"html.parser")  
     try:  
         print(bsObj.h1.get_text())  

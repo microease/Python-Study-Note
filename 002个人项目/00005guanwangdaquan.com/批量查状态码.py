@@ -2,10 +2,12 @@
 import urllib, time
 from io import StringIO
 import pycurl
+import certifi
 def get_http_status(url):
     html = StringIO()
     c = pycurl.Curl()
     myurl = url
+    c.setopt(pycurl.CAINFO, certifi.where())
     c.setopt(pycurl.URL, myurl)
     c.setopt(pycurl.WRITEFUNCTION, html.write)
     c.setopt(pycurl.FOLLOWLOCATION, 1)
@@ -17,8 +19,7 @@ def get_http_status(url):
     ret = c.perform()
     ret = html.getvalue()
     if "200" in ret:
-        print
-        url, c.getinfo(c.HTTP_CODE)
+        print(url, c.getinfo(c.HTTP_CODE))
         return 1
     elif "404" in ret:
         print

@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-shutdown = int(input('输入：0 定时关机，1 取消定时\n'))
+shutdown = int(input('输入：0 00003定时关机，1 取消定时\n'))
 
 if shutdown:
    os.system('shutdown -a')

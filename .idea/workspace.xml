@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169b4cb-a2b3-4e57-992b-e7a2e6f677ce" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/002个人项目/guanwangdaquan.com/批量生成文章链接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002个人项目/批量查状态码/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008PythonTip/012.py" beforeDir="false" afterPath="$PROJECT_DIR$/008PythonTip/012.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +18,14 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$004.coverage" NAME="004 Coverage Results" MODIFIED="1530109505106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$011.coverage" NAME="011 Coverage Results" MODIFIED="1530120231963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$020.coverage" NAME="020 Coverage Results" MODIFIED="1530146111146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$.coverage" NAME="定时关机 Coverage Results" MODIFIED="1530068428370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/定时关机" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$013.coverage" NAME="013 Coverage Results" MODIFIED="1530144651693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$.coverage" NAME="批量生成文章链接 Coverage Results" MODIFIED="1530156970206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/guanwangdaquan.com" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$014.coverage" NAME="014 Coverage Results" MODIFIED="1530144730657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$008.coverage" NAME="008 Coverage Results" MODIFIED="1530106114790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$010.coverage" NAME="010 Coverage Results" MODIFIED="1530106800896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$012.coverage" NAME="012 Coverage Results" MODIFIED="1530150627572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$015.coverage" NAME="015 Coverage Results" MODIFIED="1530144999181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$test.coverage" NAME="test Coverage Results" MODIFIED="1530155951897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/批量查状态码" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$009.coverage" NAME="009 Coverage Results" MODIFIED="1530106525919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$101.coverage" NAME="101 Coverage Results" MODIFIED="1530085846114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/003菜鸟教程_Python100例" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$005.coverage" NAME="005 Coverage Results" MODIFIED="1530109222668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
@@ -33,11 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="012.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/008PythonTip/012.py">
+      <file leaf-file-name="批量生成文章链接.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/002个人项目/guanwangdaquan.com/批量生成文章链接.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="208">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/002个人项目/guanwangdaquan.com/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="62584" column="35" selection-start-line="62584" selection-start-column="35" selection-end-line="62584" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -81,6 +92,9 @@
         <option value="$PROJECT_DIR$/008PythonTip/019.py" />
         <option value="$PROJECT_DIR$/008PythonTip/020.py" />
         <option value="$PROJECT_DIR$/008PythonTip/012.py" />
+        <option value="$PROJECT_DIR$/002个人项目/批量查状态码/test.py" />
+        <option value="$PROJECT_DIR$/002个人项目/guanwangdaquan.com/批量生成文章链接.py" />
+        <option value="$PROJECT_DIR$/002个人项目/guanwangdaquan.com/text.txt" />
       </list>
     </option>
   </component>
@@ -93,7 +107,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="43" />
     <option name="y" value="58" />
     <option name="width" value="1280" />
@@ -118,7 +132,13 @@
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="008PythonTip" type="462c0819:PsiDirectoryNode" />
+              <item name="002个人项目" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="002个人项目" type="462c0819:PsiDirectoryNode" />
+              <item name="guanwangdaquan.com" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,7 +164,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.012">
+  <component name="RunManager" selected="Python.批量生成文章链接">
+    <configuration name="批量生成文章链接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002个人项目/guanwangdaquan.com" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002个人项目/guanwangdaquan.com/批量生成文章链接.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,44 +198,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="014" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/008PythonTip" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/014ok.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="015" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/008PythonTip" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/015ok.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,20 +241,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002个人项目/批量查状态码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002个人项目/批量查状态码/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.014" />
-      <item itemvalue="Python.015" />
       <item itemvalue="Python.019OK" />
       <item itemvalue="Python.020" />
       <item itemvalue="Python.012" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.批量生成文章链接" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.批量生成文章链接" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.012" />
         <item itemvalue="Python.020" />
         <item itemvalue="Python.019OK" />
-        <item itemvalue="Python.015" />
-        <item itemvalue="Python.014" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +291,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="58" width="1280" height="702" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -280,9 +300,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21716288" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23087248" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20094937" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17638889" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -301,25 +321,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20145631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21731749" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="bottom" id="调试" order="13" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +349,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/008PythonTip/012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/008PythonTip/020ok.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -487,8 +514,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/008PythonTip/012.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="453">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/批量查状态码/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="26" column="52" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <element signature="e#96#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/guanwangdaquan.com/批量生成文章链接.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/guanwangdaquan.com/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="62584" column="35" selection-start-line="62584" selection-start-column="35" selection-end-line="62584" selection-end-column="35" />
         </state>
       </provider>
     </entry>

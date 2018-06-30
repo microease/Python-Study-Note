@@ -3,3 +3,14 @@
 # 则输出：12 15
 a = 3
 b = 60
+# 最小公倍数 = 两数乘积/最大公约数
+import math
+minAb = min(a, b)  # 这个是最大公约数
+maxAb = max(a, b)  # 这个是最小公倍数
+list1 = []
+for i in range(minAb, maxAb):
+    for j in range(minAb, maxAb):
+        if math.gcd(i, j) == a and i * j / a == b:  # 如果ij的最大公约数为a且最小公倍数为b
+            list1.append((i, j))
+list1.sort(key=lambda x: x[0] + x[1])  # 按最小和排序
+print(" ".join(map(str, list1[0])))  # 输出第一组

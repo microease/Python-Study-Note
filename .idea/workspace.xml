@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e169b4cb-a2b3-4e57-992b-e7a2e6f677ce" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/008PythonTip/023ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/028ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/029ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/030ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/037ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/038ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008PythonTip/039ok.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/01面试题.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/01面试题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/02属性区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/02属性区别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/03正则表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/03正则表达式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/Process.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/Process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/TCP客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/TCP客户端.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/TCP服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/TCP服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/TFTP下载器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/TFTP下载器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/gevent服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/gevent服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/python多线程实现聊天程序.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/python多线程实现聊天程序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/python聊天室.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/python聊天室.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/udp接受数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/udp接受数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/web服务器笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/web服务器笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/wsgipy/m_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/wsgipy/m_hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/wsgipy/m_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/wsgipy/m_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/作用域.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/作用域.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/创建udp通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/创建udp通信.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/动态web服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/动态web服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/匹配网址.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/匹配网址.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/协程-greenlet版.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/协程-greenlet版.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/协程.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/协程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/单进程非阻塞服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/单进程非阻塞服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/多进程拷贝文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/多进程拷贝文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/提取url.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/提取url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/数据结构和算法/python列表类型的不同操作执行效率.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/数据结构和算法/python列表类型的不同操作执行效率.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/数据结构和算法/时间复杂度.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/数据结构和算法/时间复杂度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/数据结构和算法/面试题.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/数据结构和算法/面试题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/数据结构和算法/面试题优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/数据结构和算法/面试题优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则0-100的数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则0-100的数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则匹配邮箱.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则匹配邮箱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则当中的贪婪模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则当中的贪婪模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则提取文本.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则提取文本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则网页路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则网页路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/正则表达式.md" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/正则表达式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/进程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001传智播客/就业班/静态web服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001传智播客/就业班/01练习/静态web服务器.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,41 +48,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Study_Note$012.coverage" NAME="012 Coverage Results" MODIFIED="1530150627572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$006.coverage" NAME="006 Coverage Results" MODIFIED="1530108624208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$015.coverage" NAME="015 Coverage Results" MODIFIED="1530144999181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$test.coverage" NAME="test Coverage Results" MODIFIED="1530155951897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/批量查状态码" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$009.coverage" NAME="009 Coverage Results" MODIFIED="1530106525919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$007.coverage" NAME="007 Coverage Results" MODIFIED="1530105130397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$004.coverage" NAME="004 Coverage Results" MODIFIED="1530109505106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$039.coverage" NAME="039 Coverage Results" MODIFIED="1530226982286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$020.coverage" NAME="020 Coverage Results" MODIFIED="1530146111146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$011.coverage" NAME="011 Coverage Results" MODIFIED="1530120231963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$013.coverage" NAME="013 Coverage Results" MODIFIED="1530144651693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$028.coverage" NAME="028 Coverage Results" MODIFIED="1530228472479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$002.coverage" NAME="002 Coverage Results" MODIFIED="1530086357656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$008.coverage" NAME="008 Coverage Results" MODIFIED="1530106114790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$010.coverage" NAME="010 Coverage Results" MODIFIED="1530106800896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$037.coverage" NAME="037 Coverage Results" MODIFIED="1530226777646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$014.coverage" NAME="014 Coverage Results" MODIFIED="1530144730657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$005.coverage" NAME="005 Coverage Results" MODIFIED="1530109222668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$023.coverage" NAME="023 Coverage Results" MODIFIED="1530229479357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$.coverage" NAME="批量查状态码 Coverage Results" MODIFIED="1530163082679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/guanwangdaquan.com" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$030.coverage" NAME="030 Coverage Results" MODIFIED="1530229484717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$1.coverage" NAME="1 Coverage Results" MODIFIED="1530190343440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/00002www.mylikesz.com" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$017.coverage" NAME="017 Coverage Results" MODIFIED="1530202961321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$035.coverage" NAME="035 Coverage Results" MODIFIED="1530228012311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$101.coverage" NAME="101 Coverage Results" MODIFIED="1530085846114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/003菜鸟教程_Python100例" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$029.coverage" NAME="029 Coverage Results" MODIFIED="1530227257408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$003.coverage" NAME="003 Coverage Results" MODIFIED="1530086565757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="030ok.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/008PythonTip/030ok.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="27">
               <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
@@ -148,7 +148,13 @@
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="008PythonTip" type="462c0819:PsiDirectoryNode" />
+              <item name="001传智播客" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001传智播客" type="462c0819:PsiDirectoryNode" />
+              <item name="就业班" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,11 +165,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/001传智播客/就业班/001" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\github\Python-Study-Note\002个人项目\00002www.mylikesz.com" />
     </key>
@@ -180,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.030">
+  <component name="RunManager" selected="Unknown.023646979061">
     <configuration name="023" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,25 +205,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/023ok.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="028" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/008PythonTip" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008PythonTip/028ok.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,22 +324,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list>
-      <item itemvalue="Python.029" />
-      <item itemvalue="Python.035" />
-      <item itemvalue="Python.028" />
-      <item itemvalue="Python.023" />
-      <item itemvalue="Python.030" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.030" />
-        <item itemvalue="Python.023" />
-        <item itemvalue="Python.028" />
-        <item itemvalue="Python.035" />
-        <item itemvalue="Python.029" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\pc\AppData\Roaming\Subversion</configuration>
@@ -360,58 +335,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530015115752</updated>
+      <workItem from="1530281333899" duration="660000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="660000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="702" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="702" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13671875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.3293718" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22920203" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13673139" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22920203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13472222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23087248" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="bottom" id="调试" order="13" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,13 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
     <entry file="file://$PROJECT_DIR$/008PythonTip/039ok.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -625,7 +599,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/008PythonTip/030ok.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="27">
           <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>

@@ -1,5 +1,6 @@
 # coding=utf-8
 # 导入requests和bf模块
+# 此文件用来采集美莱所有的目录链接
 import requests
 from bs4 import BeautifulSoup
 
@@ -42,3 +43,4 @@ for m in allA:
     allA = [url + m if x == m else x for x in allA]
 print(allA)
 # 此时，我们已经获取到了所有的目录链接
+# 返回信息如下：['http://www.mylikesz.com/zhengxing/xiongbu/', 'http://www.mylikesz.com/zhengxing/bibu/', 'http://www.mylikesz.com/zhengxing/yanbu/', 'http://www.mylikesz.com/zhengxing/gailian/', 'http://www.mylikesz.com/zhengxing/xizhi/', 'http://www.mylikesz.com/zhengxing/banhen/', 'http://www.mylikesz.com/zhengxing/zuichun/', 'http://www.mylikesz.com/meifu/quban/', 'http://www.mylikesz.com/meifu/jinfu/', 'http://www.mylikesz.com/meifu/qudou/', 'http://www.mylikesz.com/zhongyi/', 'http://www.mylikesz.com/meifu/meibai/', 'http://www.mylikesz.com/meifu/tuomao/', 'http://www.mylikesz.com/meifu/wenxiu/', 'http://www.mylikesz.com/meifu/heiyanquan/', 'http://www.mylikesz.com/wuchuang/suxing/', 'http://www.mylikesz.com/wuchuang/wuchuangchuzhou/', 'http://www.mylikesz.com/wuchuang/boniansuan/', 'http://www.mylikesz.com/wuchuang/shoulian/', 'http://www.mylikesz.com/wuchuang/zhushelongbi/', 'http://www.mylikesz.com/wuchuang/xd/', 'http://www.mylikesz.com/wuchuang/shouxiaotui/', 'http://www.mylikesz.com/wuchuang/chuyechou/', 'http://www.mylikesz.com/huolichike/zhongzhiya/360_1.html', 'http://www.mylikesz.comhttp://www.mylikesz.com/baidu/sszy/', 'http://www.mylikesz.com/huolichike/yachimeibai/', 'http://www.mylikesz.com/huolichike/kaociya/', 'http://www.mylikesz.com/huolichike/jiaozheng/', 'http://www.mylikesz.com/huolichike/zhiliao/', 'http://www.mylikesz.com/zhongyi/fuzhenjianfei/', 'http://www.mylikesz.com/zhongyi/zhongyimeirong/', 'http://www.mylikesz.com/meifu/qudou/', 'http://www.mylikesz.com/zhongyi/yajiankang/']

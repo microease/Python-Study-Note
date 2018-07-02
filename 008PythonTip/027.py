@@ -11,19 +11,18 @@
 limit = [2, 4, 6]
 cost = [3, 5, 3]
 n = 3
+remain = 0
 res = []
-for i in range(n):  # 任意一个点出发
-    oil_in_car = limit[i]
+for i in range(n):
+    remain = 0
     for j in range(n):
-        if oil_in_car < cost[(i + j) % n]:  # 判断到下一个点车内的油是否够
-            oil_in_car = -1  # 便于下面判断oil_in_car >= 0，没有赋值的话就会把错误结果加入res
+        remain += limit[(i + j ) % n]
+        remain -= cost[(i + j) % n]
+        if remain < 0:
             break
-        else:
-            oil_in_car += limit[(i + j+1) % n] - cost[(i + j) % n]  # 从i+j到i+j+1经加过油后再赋值，还好题目有%n，不然可能会遗漏
-    if oil_in_car >= 0:
+    if remain >= 0:
         res.append(i)
-
 if len(res) == 0:
-    print(-1)
+    print(- 1)
 else:
-    print(min(res))
+    print(res[0])

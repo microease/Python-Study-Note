@@ -1,5 +1,5 @@
 # https://guanwangdaquan.com/?p=62584
-url = "https://00005guanwangdaquan.com/?p="
+url = "https://00005www.guanwangdaquan.com/?p="
 f = open("text.txt", 'wb')
 for i in range(62585):
     print(url + str(i))

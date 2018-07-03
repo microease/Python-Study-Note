@@ -3,7 +3,7 @@ import re
 import bs4
 import urllib.request
  
-url_home = 'https://00005guanwangdaquan.com/'  #要采集的网站
+url_home = 'https://00005www.guanwangdaquan.com/'  #要采集的网站
 url_pattern = url_home + '([\s\S]*)' #正则表达式匹配文章页面，此处需完善为更好的写法
 url_set = set()
 url_cache = set()

@@ -27,13 +27,16 @@ for i in article:
     r.encoding = 'utf-8'
     soup = BeautifulSoup(r.text, 'html.parser')
     titles.append(soup.find('h1').get_text())
-    contents.append(soup.find('div', {"class": "essay_xb_info"}))
+    # contents.append(soup.find('div', {"class": "essay_xb_info"}))
     # for j in times:
     #     for k in j.find_all('span'):
     #         print(k)
-    contents = soup.find('div', {"class": "text_C"})
+    contents.append(soup.find('div', {"class": "text_C"}))
     # txt(str(titles), str(contents))
 
-for l in titles:
-    index = titles.index(l)
-    txt(str(titles[index]), '111')
+for l in range(len(titles)):
+    txt(str(titles[l]), str(contents[l]))
+#
+# for l in titles:
+#     index = titles.index(l)
+#     txt(str(titles[index]), str(contents[index]))

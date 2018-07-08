@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cab3e688-4625-463e-8845-0112ac0e4197" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/008PythonTip/033ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/test1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/touxiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/tupian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/wm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/动态彩色二维码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/带图片二维码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00001Python生成二维码ok/普通二维码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00002Python图片转字符画/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010实验楼/00002Python图片转字符画/touxiang.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008PythonTip/034.py" beforeDir="false" afterPath="$PROJECT_DIR$/008PythonTip/034.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,6 +29,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$031.coverage" NAME="031 Coverage Results" MODIFIED="1531033637268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008PythonTip" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$00001.coverage" NAME="00001 Coverage Results" MODIFIED="1530967569617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/009_Book_Python3网络爬虫开发实战/003基本库的使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$001.coverage" NAME="001登录百度 Coverage Results" MODIFIED="1530969703832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/00009百度站长平台批量提交" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$ascii.coverage" NAME="ascii Coverage Results" MODIFIED="1531082799002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/010实验楼/00002Python图片转字符画" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -39,11 +47,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="034.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/008PythonTip/034.py">
+      <file leaf-file-name="ascii.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/010实验楼/00002Python图片转字符画/ascii.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="232">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +86,11 @@
         <option value="$PROJECT_DIR$/008PythonTip/034.ipynb" />
         <option value="$PROJECT_DIR$/008PythonTip/033.py" />
         <option value="$PROJECT_DIR$/008PythonTip/034.py" />
+        <option value="$PROJECT_DIR$/002个人项目/00010Python生成二维码/普通二维码.py" />
+        <option value="$PROJECT_DIR$/002个人项目/00010Python生成二维码/带图片二维码.py" />
+        <option value="$PROJECT_DIR$/002个人项目/00010Python生成二维码/动态彩色二维码.py" />
+        <option value="$PROJECT_DIR$/010实验楼/00002Python图片转字符画/main.py" />
+        <option value="$PROJECT_DIR$/010实验楼/00002Python图片转字符画/ascii.py" />
       </list>
     </option>
   </component>
@@ -87,10 +103,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="120" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="702" />
+    <option name="width" value="1266" />
+    <option name="height" value="707" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -110,7 +127,13 @@
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="008PythonTip" type="462c0819:PsiDirectoryNode" />
+              <item name="010实验楼" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="010实验楼" type="462c0819:PsiDirectoryNode" />
+              <item name="00002Python图片转字符画" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,11 +148,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/010实验楼/00002Python图片转字符画" />
+      <recent name="$PROJECT_DIR$/010实验楼" />
+      <recent name="$PROJECT_DIR$/009_Book_Python3网络爬虫开发实战" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/009_Book_Python3网络爬虫开发实战/000笔记" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/009_Book_Python3网络爬虫开发实战" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -144,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.033">
+  <component name="RunManager" selected="Python.ascii">
     <configuration name="005ok" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +246,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tijiao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ascii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,31 +254,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002个人项目/00009百度站长平台批量提交" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/010实验楼/00002Python图片转字符画" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002个人项目/00009百度站长平台批量提交/tijiao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/010实验楼/00002Python图片转字符画/ascii.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.tijiao" />
       <item itemvalue="Python.031" />
       <item itemvalue="Python.035" />
       <item itemvalue="Python.005ok" />
       <item itemvalue="Python.033" />
+      <item itemvalue="Python.ascii" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ascii" />
         <item itemvalue="Python.033" />
         <item itemvalue="Python.005ok" />
         <item itemvalue="Python.035" />
         <item itemvalue="Python.031" />
-        <item itemvalue="Python.tijiao" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="702" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -280,11 +305,12 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19444445" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19386107" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23984376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.146875" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -295,7 +321,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
     </layout>
   </component>
@@ -306,6 +331,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/008PythonTip/034.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/008PythonTip/034.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -484,6 +516,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/00010Python生成二维码ok/带图片二维码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="77" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/00010Python生成二维码ok/动态彩色二维码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/00010Python生成二维码ok/普通二维码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/00010Python生成二维码ok/test1.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/00010Python生成二维码ok/tupian.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/010实验楼/00002Python图片转字符画/ascii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

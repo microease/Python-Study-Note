@@ -4,3 +4,16 @@
 # Py非常喜欢这种四位数，由于他的发现，所以这里我们命名其为Py数。
 # 现在给你一个十进制4位数n，你来判断n是不是Py数，若是，则输出Yes，否则输出No。
 # 如n=2992，则输出Yes； n = 9999，则输出No。
+def transform(num, decimal):
+    s = 0
+    while num > 0:
+        s += num % decimal
+        num = num // decimal
+    return s
+
+
+n = 2992
+s10 = transform(n, 10)
+s12 = transform(n, 12)
+s16 = transform(n, 16)
+print('Yes' if s10 == s12 and s10 == s16 else 'No')

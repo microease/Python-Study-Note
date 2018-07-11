@@ -7,4 +7,3 @@ x = 1
 y = 4
 def getPassword(a,b,x,y):
     a = int(a%b)
-

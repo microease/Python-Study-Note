@@ -45,5 +45,5 @@ n = 0
 for j in YangHui():
     print(j)
     n += 1
-    if n == 50:
+    if n == 2:
         break

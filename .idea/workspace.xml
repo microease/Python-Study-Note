@@ -2,251 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97a3688e-2af8-4d04-a4ee-effbdf700de3" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Study-Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Study-Note.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex15_sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/1-100之间的偶数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/1-100累积和.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/99乘法表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python函数实现学生管理系统-文件版.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python函数实现学生管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python函数打印横线.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python函数打印自定义行数横线.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python函数求3个数的和.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python打印佛祖.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python打印网页.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/Python求3个数的平均值.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/__new__方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/break.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/cfjdstb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/del方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/huamingce (2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/huamingce.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/jdstb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/dafeiji.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/New Atlas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bomb-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bomb-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bomb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/btn_finish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bullet-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bullet-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bullet-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bullet1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/bullet2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/button_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/button_p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy0_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy0_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy0_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy0_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy1_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy1_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy1_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy1_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy1_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_down5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_down6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/enemy2_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_loading1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_loading2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_loading3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_loading4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_pause_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_pause_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/game_resume_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/icon72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/loading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/name.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/plane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/prop_type_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/prop_type_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/quit_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/quit_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/restart_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/restart_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/pygame打飞机游戏/feiji/resume_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/python实现文件批量删除重命名.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/python实现文件批量添加重命名.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/while嵌套.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/九九乘法表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/使用循环完成阶乘.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/使用递归函数完成阶乘.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/函数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/函数参数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/列表嵌套.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/列表常用操作.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/单例模式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/名字管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/名片管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/多继承.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/存放家具.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/学生管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/定义类.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/工厂方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/异常处理.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/怎么查私有属性.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/dafeiji.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/New Atlas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bomb-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bomb-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bomb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/btn_finish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bullet-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bullet-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bullet-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bullet1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/bullet2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/button_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/button_p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy0_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy0_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy0_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy0_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy1_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy1_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy1_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy1_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy1_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_down5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_down6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/enemy2_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_loading1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_loading2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_loading3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_loading4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_pause_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_pause_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/game_resume_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero_blowup_n1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero_blowup_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero_blowup_n3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/hero_blowup_n4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/icon72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/loading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/name.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/plane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/prop_type_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/prop_type_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/quit_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/quit_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/restart_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/restart_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/打飞机/feiji/resume_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/文件复制.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/烤地瓜.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/私有属性.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/类对象.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/老王开枪.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/老王开枪重写.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/自定义异常.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/设计蛋糕店类-工厂模式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/设计蛋糕店类.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/基础班/面试题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/01面试题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/02属性区别.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/03正则表达式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/Process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/TCP客户端.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/TCP服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/TFTP下载器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/gevent服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/python多线程实现聊天程序.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/python聊天室.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/udp接受数据.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/web服务器笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/wsgipy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/wsgipy/m_hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/wsgipy/m_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/作用域.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/创建udp通信.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/动态web服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/匹配网址.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/协程-greenlet版.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/协程.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/单进程非阻塞服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/多进程拷贝文件.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/提取url.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/数据结构和算法/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/数据结构和算法/python列表类型的不同操作执行效率.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/数据结构和算法/时间复杂度.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/数据结构和算法/面试题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/数据结构和算法/面试题优化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则0-100的数字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则匹配邮箱.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则当中的贪婪模式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则提取文本.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则网页路径.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/正则表达式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/装饰器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/进程池.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/01练习/静态web服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/001传智播客/2017/就业班/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -256,6 +18,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Study_Note$ex15.coverage" NAME="ex15 Coverage Results" MODIFIED="1536101247290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$ex18.coverage" NAME="ex18 Coverage Results" MODIFIED="1536104264460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1532745458210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1536076541773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1532664257392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
@@ -267,16 +31,17 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1532745628048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1536076992463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1532660658187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$ex17.coverage" NAME="ex17 Coverage Results" MODIFIED="1536103530504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1532756107334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$ex9.coverage" NAME="ex9 Coverage Results" MODIFIED="1532748501866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ex14.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex14.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ex19.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="104">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -312,6 +77,12 @@
         <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex11.py" />
         <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex13.py" />
         <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex14.py" />
+        <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex5_sample.txt" />
+        <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex15.py" />
+        <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex16.py" />
+        <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex17.py" />
+        <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex18.py" />
+        <option value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex19.py" />
       </list>
     </option>
   </component>
@@ -324,11 +95,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="19" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1394" />
-    <option name="height" value="709" />
+    <option name="width" value="1280" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -386,45 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex13">
-    <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex18">
     <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -463,7 +195,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -476,26 +208,64 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex9" />
-      <item itemvalue="Python.ex10" />
-      <item itemvalue="Python.ex11" />
       <item itemvalue="Python.ex12" />
       <item itemvalue="Python.ex13" />
+      <item itemvalue="Python.ex15" />
+      <item itemvalue="Python.ex17" />
+      <item itemvalue="Python.ex18" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex18" />
+        <item itemvalue="Python.ex17" />
+        <item itemvalue="Python.ex15" />
         <item itemvalue="Python.ex13" />
         <item itemvalue="Python.ex12" />
-        <item itemvalue="Python.ex11" />
-        <item itemvalue="Python.ex10" />
-        <item itemvalue="Python.ex9" />
       </list>
     </recent_temporary>
   </component>
@@ -522,10 +292,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27508092" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27508092" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23046875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23046875" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -539,6 +308,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,6 +318,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -667,6 +444,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex15_sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/test1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/002Learn Python the Hard Way/ex19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>

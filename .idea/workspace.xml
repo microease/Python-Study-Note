@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/02-打印分割线.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +14,8 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$01while.coverage" NAME="01while循环 Coverage Results" MODIFIED="1537760496960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$01_break.coverage" NAME="01-break Coverage Results" MODIFIED="1537771743409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_.coverage" NAME="03-第一个函数 Coverage Results" MODIFIED="1537775689133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-函数的嵌套调用 Coverage Results" MODIFIED="1537793698465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-调用函数 Coverage Results" MODIFIED="1537775686878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-函数的嵌套调用 Coverage Results" MODIFIED="1537793837628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-打印分割线 Coverage Results" MODIFIED="1537793881623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_99.coverage" NAME="03-99乘法表 Coverage Results" MODIFIED="1537774932242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_0100.coverage" NAME="03-0到100偶数求和 Coverage Results" MODIFIED="1537761357816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_0100.coverage" NAME="02-0到100累积求和 Coverage Results" MODIFIED="1537761204823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
@@ -33,22 +32,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="40" />
+          <entry key="py" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="40" />
+          <entry key="Python" value="81" />
         </counts>
       </usages-collector>
     </session>
@@ -56,10 +55,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/02-打印分割线.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="26">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding>
+                <marker date="1537793880307" expanded="true" signature="21:26" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +97,7 @@
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用/03-第一个函数.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值/01-函数的参数.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/02-打印分割线.py" />
       </list>
     </option>
   </component>
@@ -169,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01-函数的嵌套调用">
+  <component name="RunManager" selected="Python.02-打印分割线">
     <configuration name="01-函数的参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-小星星" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-打印分割线" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套/02-小星星.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/02-打印分割线.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,19 +303,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.02-小星星" />
       <item itemvalue="Python.03-99乘法表" />
       <item itemvalue="Python.03-第一个函数" />
       <item itemvalue="Python.01-函数的参数" />
       <item itemvalue="Python.01-函数的嵌套调用" />
+      <item itemvalue="Python.02-打印分割线" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02-打印分割线" />
         <item itemvalue="Python.01-函数的嵌套调用" />
         <item itemvalue="Python.01-函数的参数" />
         <item itemvalue="Python.03-第一个函数" />
         <item itemvalue="Python.03-99乘法表" />
-        <item itemvalue="Python.02-小星星" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +334,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21324718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -446,6 +448,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/02-打印分割线.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <marker date="1537793880307" expanded="true" signature="21:26" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

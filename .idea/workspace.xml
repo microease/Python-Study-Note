@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Study-Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Study-Note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$01while.coverage" NAME="01while循环 Coverage Results" MODIFIED="1537760496960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$01_break.coverage" NAME="01-break Coverage Results" MODIFIED="1537771743409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_.coverage" NAME="03-第一个函数 Coverage Results" MODIFIED="1537775689133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-函数的参数 Coverage Results" MODIFIED="1537780260451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-函数的嵌套调用 Coverage Results" MODIFIED="1537793698465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-调用函数 Coverage Results" MODIFIED="1537775686878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_99.coverage" NAME="03-99乘法表 Coverage Results" MODIFIED="1537774932242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_0100.coverage" NAME="03-0到100偶数求和 Coverage Results" MODIFIED="1537761357816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
@@ -26,8 +26,29 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
     </session>
@@ -35,10 +56,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值/01-函数的参数.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -51,6 +72,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/001黑马/2018/00Python基础</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,6 +94,7 @@
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用/02-调用函数.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/13-函数的基本使用/03-第一个函数.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值/01-函数的参数.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" />
       </list>
     </option>
   </component>
@@ -82,12 +109,15 @@
     <option name="width" value="1280" />
     <option name="height" value="712" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,19 +143,10 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="14-函数的参数和返回值" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01-函数的参数">
+  <component name="RunManager" selected="Python.01-函数的嵌套调用">
     <configuration name="01-函数的参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,6 +184,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值/01-函数的参数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01-函数的嵌套调用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,9 +304,11 @@
       <item itemvalue="Python.03-99乘法表" />
       <item itemvalue="Python.03-第一个函数" />
       <item itemvalue="Python.01-函数的参数" />
+      <item itemvalue="Python.01-函数的嵌套调用" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01-函数的嵌套调用" />
         <item itemvalue="Python.01-函数的参数" />
         <item itemvalue="Python.03-第一个函数" />
         <item itemvalue="Python.03-99乘法表" />
@@ -286,13 +331,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21001616" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21324718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.3294702" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34083602" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.339404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,7 +438,14 @@
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值/01-函数的参数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>

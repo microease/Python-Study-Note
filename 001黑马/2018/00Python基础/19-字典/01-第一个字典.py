@@ -13,5 +13,8 @@ xiaoming.pop("xx")
 
 print(xiaoming)
 
-xiaoming.clear()
-print(xiaoming)
+# xiaoming.clear()
+# print(xiaoming)
+
+for key in xiaoming:
+    print(xiaoming[key])

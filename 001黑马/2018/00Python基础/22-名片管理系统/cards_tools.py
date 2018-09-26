@@ -66,6 +66,37 @@ def search_card():
                                             card_dict["phone"],
                                             card_dict["qq"],
                                             card_dict["email"]))
+            # TODO 针对找到的名片记录执行修改删除操作
+            deal_card(card_dict)
+
             break
     else:
         print("抱歉，没有找到%s" % find_name)
+
+
+def deal_card(find_dict):
+    print(find_dict)
+    action_str = input("请选择要执行的操作："
+                       "[1]修改 [2]删除 [0]返回上级菜单")
+    if action_str == "1":
+        find_dict["name"] = input_card_info(find_dict["name"], "姓名:[回车不修改]")
+        find_dict["phone"] = input_card_info(find_dict["phone"], "电话:[回车不修改]")
+        find_dict["qq"] = input_card_info(find_dict["qq"], "QQ:[回车不修改]")
+        find_dict["email"] = input_card_info(find_dict["email"], "邮箱:[回车不修改]")
+
+        print("修改名片成功!")
+    elif action_str == "2":
+        card_list.remove(find_dict)
+        print("删除名片成功!")
+
+
+def input_card_info(dict_value, tip_message):
+    """
+
+    :rtype: object
+    """
+    result_str = input(tip_message)
+    if len(result_str) > 0:
+        return result_str
+    else:
+        return dict_value

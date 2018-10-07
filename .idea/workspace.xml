@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/02-设置对象属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/03-初始化方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/04-利用参数设置初始值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/05-del和str方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习/01-小明爱跑步.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +22,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-递归实现数字累积 Coverage Results" MODIFIED="1538914980952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/25-函数的返回值和参数进阶" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_0100.coverage" NAME="02-0到100累积求和 Coverage Results" MODIFIED="1537761204823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$cards_tools.coverage" NAME="cards_tools Coverage Results" MODIFIED="1538004117194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/22-名片管理系统" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-第一个面向对象程序 Coverage Results" MODIFIED="1538920318774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-小明爱跑步 Coverage Results" MODIFIED="1538953367840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-设置对象属性 Coverage Results" MODIFIED="1538921556895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_99.coverage" NAME="03-99乘法表 Coverage Results" MODIFIED="1537774932242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1538004699803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/22-名片管理系统" />
@@ -39,71 +36,48 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="pstat" value="1" />
-          <entry key="py" value="20" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="py" value="3367" />
+          <entry key="py" value="3653" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="3367" />
+          <entry key="Python" value="3653" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/03-初始化方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1538923248897" expanded="true" signature="10:15" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/04-利用参数设置初始值.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding>
-                <marker date="1538924631573" expanded="true" signature="10:15" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/05-del和str方法.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习/01-小明爱跑步.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="236">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
-                <marker date="1538925589721" expanded="true" signature="10:15" ph="..." />
+                <marker date="1538953366372" expanded="true" signature="15:20" ph="..." />
               </folding>
             </state>
           </provider>
@@ -161,6 +135,7 @@
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/03-初始化方法.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/04-利用参数设置初始值.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/05-del和str方法.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习/01-小明爱跑步.py" />
       </list>
     </option>
   </component>
@@ -217,6 +192,15 @@
               <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
               <item name="1-3 面向对象" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
+              <item name="1-3 面向对象" type="462c0819:PsiDirectoryNode" />
+              <item name="02-面向对象练习" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -249,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05-del和str方法">
-    <configuration name="01-第一个面向对象程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01-小明爱跑步">
+    <configuration name="01-小明爱跑步" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/01-第一个面向对象程序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习/01-小明爱跑步.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,19 +433,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01-第一个面向对象程序" />
       <item itemvalue="Python.02-设置对象属性" />
       <item itemvalue="Python.03-初始化方法" />
       <item itemvalue="Python.04-利用参数设置初始值" />
       <item itemvalue="Python.05-del和str方法" />
+      <item itemvalue="Python.01-小明爱跑步" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01-小明爱跑步" />
         <item itemvalue="Python.05-del和str方法" />
         <item itemvalue="Python.04-利用参数设置初始值" />
         <item itemvalue="Python.03-初始化方法" />
         <item itemvalue="Python.02-设置对象属性" />
-        <item itemvalue="Python.01-第一个面向对象程序" />
       </list>
     </recent_temporary>
   </component>
@@ -479,14 +463,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="707" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="707" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23909532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24313408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22036728" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22036728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,15 +481,15 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="调试" order="12" weight="0.32952693" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32888147" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.3294702" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding>
-            <marker date="1538826857805" expanded="true" signature="23:28" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <marker date="1538826692713" expanded="true" signature="12:17" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <marker date="1538912894980" expanded="true" signature="23:28" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -691,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <marker date="1538913265743" expanded="true" signature="26:31" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <marker date="1538914713681" expanded="true" signature="18:23" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,9 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <marker date="1538914979846" expanded="true" signature="21:26" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,18 +695,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="11" lean-forward="true" selection-end-line="11" />
-          <folding>
-            <marker date="1538920316426" expanded="true" signature="10:15" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/03-初始化方法.py">
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/05-del和str方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="312">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
-            <marker date="1538923248897" expanded="true" signature="10:15" ph="..." />
+            <marker date="1538925589721" expanded="true" signature="10:15" ph="..." />
           </folding>
         </state>
       </provider>
@@ -747,19 +711,29 @@
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/04-利用参数设置初始值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding>
             <marker date="1538924631573" expanded="true" signature="10:15" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/05-del和str方法.py">
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/01-面向对象基础/03-初始化方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="130">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <marker date="1538925589721" expanded="true" signature="10:15" ph="..." />
+            <marker date="1538923248897" expanded="true" signature="10:15" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习/01-小明爱跑步.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1538953366372" expanded="true" signature="15:20" ph="..." />
           </folding>
         </state>
       </provider>

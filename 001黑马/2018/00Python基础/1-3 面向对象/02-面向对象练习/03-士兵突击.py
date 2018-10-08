@@ -21,9 +21,9 @@ class Soldier:
 
     def fire(self):
         if self.gun == None:
-            print("%s 还没有枪"%self.name)
+            print("%s 还没有枪" % self.name)
             return
-        print("冲啊。。%s"%self.name)
+        print("冲啊。。%s" % self.name)
         self.gun.add_bullet(50)
         self.gun.shoot()
 

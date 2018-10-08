@@ -21,7 +21,12 @@ class XiaoTianQuan(Dog):
     def fly(self):
         print("能飞")
 
+    def bark(self):
+        print("神狗叫")
+        super().bark()
+        print("xxx")
+
 
 xiaomei = XiaoTianQuan()
 
-xiaomei.fly()
+xiaomei.bark()

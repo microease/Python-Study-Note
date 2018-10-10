@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习/06-多继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/01-类属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/02-类方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/03-静态方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/04-方法综合案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/08-单例模式/01-new方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/08-单例模式/02-单例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/01-简单捕获异常.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/02-捕获错误类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/01-导入包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/receive_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/send_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +28,8 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-继承 Coverage Results" MODIFIED="1539013952171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_0100.coverage" NAME="02-0到100累积求和 Coverage Results" MODIFIED="1537761204823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$cards_tools.coverage" NAME="cards_tools Coverage Results" MODIFIED="1538004117194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/22-名片管理系统" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-简单捕获异常 Coverage Results" MODIFIED="1539096795909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$setup.coverage" NAME="setup Coverage Results" MODIFIED="1539199505932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-导入包 Coverage Results" MODIFIED="1539199537390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-捕获错误类型 Coverage Results" MODIFIED="1539097355250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_99.coverage" NAME="03-99乘法表 Coverage Results" MODIFIED="1537774932242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1538004699803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/22-名片管理系统" />
@@ -60,25 +57,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="pstat" value="1" />
-          <entry key="py" value="39" />
+          <entry key="py" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="39" />
+          <entry key="Python" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="py" value="6970" />
+          <entry key="py" value="7461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="6970" />
+          <entry key="Python" value="7461" />
         </counts>
       </usages-collector>
     </session>
@@ -86,22 +83,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/02-捕获错误类型.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="26">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/send_message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding>
+                <marker date="1539184336729" expanded="true" signature="15:20" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/receive_message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="4" selection-end-column="11" />
+              <folding>
+                <marker date="1539184380438" expanded="true" signature="14:19" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/01-导入包.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding>
-                <marker date="1539098024022" expanded="true" signature="21:26" ph="..." />
-              </folding>
+            <state relative-caret-position="208">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -126,9 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用/01while循环.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用/02-0到100累积求和.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用/03-0到100偶数求和.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套/01-break.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套/02-小星星.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/12-循环嵌套/03-99乘法表.py" />
@@ -173,6 +200,13 @@
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/01-简单捕获异常.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/02-捕获错误类型.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/send_message.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/recive_message.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/receive_message.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/__init__.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/01-导入包.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/setup.py" />
       </list>
     </option>
   </component>
@@ -182,7 +216,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="704" />
@@ -236,7 +270,17 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
               <item name="1-3 面向对象" type="462c0819:PsiDirectoryNode" />
-              <item name="09-异常" type="462c0819:PsiDirectoryNode" />
+              <item name="10-模块和包" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
+              <item name="1-3 面向对象" type="462c0819:PsiDirectoryNode" />
+              <item name="10-模块和包" type="462c0819:PsiDirectoryNode" />
+              <item name="hyk_message" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
@@ -275,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03-主动抛出异常">
+  <component name="RunManager" selected="Python.01-导入包">
     <configuration name="01-简单捕获异常" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,6 +334,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/01-简单捕获异常.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01-导入包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/01-导入包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,28 +430,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01-new方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/08-单例模式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/08-单例模式/01-new方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="02-捕获错误类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -452,18 +496,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.01-new方法" />
       <item itemvalue="Python.01-简单捕获异常" />
       <item itemvalue="Python.02-捕获错误类型" />
       <item itemvalue="Python.03-主动抛出异常" />
+      <item itemvalue="Python.01-导入包" />
+      <item itemvalue="Python.setup" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01-导入包" />
+        <item itemvalue="Python.setup" />
         <item itemvalue="Python.03-主动抛出异常" />
         <item itemvalue="Python.02-捕获错误类型" />
         <item itemvalue="Python.01-简单捕获异常" />
-        <item itemvalue="Python.01-new方法" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +549,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="704" extended-state="1" />
+    <frame x="0" y="23" width="1280" height="704" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.25928918" />
@@ -489,7 +557,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2951096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29362416" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,20 +585,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/002个人项目/00002www.mylikesz.com/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/11-while循环基本使用/02-0到100累积求和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/11-while循环基本使用/03-0到100偶数求和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -828,6 +882,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1539180185552" expanded="true" signature="21:26" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/02-捕获错误类型.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -835,13 +899,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py">
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/send_message.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="26">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding>
-            <marker date="1539098024022" expanded="true" signature="21:26" ph="..." />
+            <marker date="1539184336729" expanded="true" signature="15:20" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/hyk_message/receive_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="4" selection-end-column="11" />
+          <folding>
+            <marker date="1539184380438" expanded="true" signature="14:19" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/01-导入包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/10-模块和包/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>

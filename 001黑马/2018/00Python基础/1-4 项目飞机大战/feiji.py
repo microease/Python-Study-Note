@@ -1,4 +1,5 @@
 import pygame
+from plane_sprites import *
 
 pygame.init()
 # 游戏开始
@@ -14,6 +15,8 @@ pygame.display.update()
 # 游戏刷新
 clock = pygame.time.Clock()
 hero_rect = pygame.Rect(150, 300, 102, 126)
+enemy = GameSprite("./images/enemy1.png")
+enemy_group = pygame.sprite.Group(enemy)
 i = 0
 while True:
     clock.tick(1)
@@ -25,6 +28,8 @@ while True:
     hero_rect.y = 50
     screen.blit(bg, (0, 0))
     screen.blit(hero, hero_rect)
+    enemy_group.update()
+    enemy_group.draw(screen)
     pygame.display.update()
     event = pygame.event.poll()
     if event.type == pygame.QUIT:

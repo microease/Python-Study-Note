@@ -1,9 +1,14 @@
+import random
 import pygame
 
 # 屏幕大小的常量
 SCREEN_RECT = pygame.Rect(0, 0, 480, 700)
 # 刷新帧率
 FRAME_PER_SEC = 60
+# 创建敌机的定时器常量
+CREATE_ENEMY_EVENT = pygame.USEREVENT
+# 英雄发射子弹的事件
+HERO_FIRE_EVENT = pygame.USEREVENT + 1
 
 
 class GameSprite(pygame.sprite.Sprite):
@@ -25,7 +30,48 @@ class Background(GameSprite):
         super().__init__("./images/background.png")
         if is_alt:
             self.rect.y = -self.rect.height
+
     def update(self):
         super().update()
         if self.rect.y >= SCREEN_RECT.height:
             self.rect.y == -SCREEN_RECT.height
+
+
+class Enemy(GameSprite):
+    def __init__(self):
+        # 调用父类方法 创建敌机精灵
+        super().__init__("./images/enemy1.png")
+        # 指定初始速度
+        self.speed = random.randint(1, 3)
+        # 指定随机位置
+        self.rect.bottom = 0
+        max_x = SCREEN_RECT.width - self.rect.width
+        self.rect.x = random.randint(0, max_x)
+
+    def update(self):
+        # 调用父类方法
+        super().update()
+        # 判断是否飞出屏幕
+        if self.rect.y >= SCREEN_RECT.height:
+            # print("删除")
+            self.kill()
+
+    def __del__(self):
+        pass
+        # print("删除敌机%s" % self.rect)
+
+
+class Hero(GameSprite):
+    def __init__(self):
+        super().__init__("./images/me1.png", 0)
+        self.rect.centerx = SCREEN_RECT.centerx
+        self.rect.bottom = SCREEN_RECT.bottom - 120
+
+    def update(self):
+        self.rect.x += self.speed
+        if self.rect.x < 0:
+            self.rect.x = 0
+        elif self.rect.right > SCREEN_RECT.right:
+            self.rect.right = SCREEN_RECT.right
+
+    def fire(self):

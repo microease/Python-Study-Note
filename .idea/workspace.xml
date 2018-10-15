@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py" afterDir="false" />
     </list>
@@ -20,7 +21,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_.coverage" NAME="06-多继承 Coverage Results" MODIFIED="1539040984524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$plane_sprites.coverage" NAME="plane_sprites Coverage Results" MODIFIED="1539518073308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$002_.coverage" NAME="002-全局变量 Coverage Results" MODIFIED="1538826861489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/24-局部变量和全局变量" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1539534072995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1539617326736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_0100.coverage" NAME="03-0到100偶数求和 Coverage Results" MODIFIED="1537761357816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/11-while循环基本使用" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$001_.coverage" NAME="001-局部变量 Coverage Results" MODIFIED="1538826661447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/24-局部变量和全局变量" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-继承 Coverage Results" MODIFIED="1539013952171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/02-面向对象练习" />
@@ -38,9 +39,9 @@
     <session id="-1776742660">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.15" value="2" />
@@ -49,7 +50,7 @@
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,29 +73,29 @@
         <counts>
           <entry key="README" value="2" />
           <entry key="dummy" value="20" />
-          <entry key="py" value="9876" />
+          <entry key="py" value="11225" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="9876" />
+          <entry key="Python" value="11225" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="70">
+              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1539533733197" expanded="true" signature="68:73" ph="..." />
-                <marker date="1539533733197" expanded="true" signature="455:461" ph="..." />
-                <marker date="1539533733197" expanded="true" signature="1009:1010" ph="..." />
+                <marker date="1539617321016" expanded="true" signature="68:73" ph="..." />
+                <marker date="1539617321016" expanded="true" signature="733:739" ph="..." />
+                <marker date="1539617321016" expanded="true" signature="1282:1283" ph="..." />
               </folding>
             </state>
           </provider>
@@ -103,12 +104,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="280">
+              <caret line="10" column="15" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
               <folding>
-                <marker date="1539534070485" expanded="true" signature="134:326" ph="..." />
-                <marker date="1539534070485" expanded="true" signature="437:748" ph="..." />
-                <marker date="1539534070485" expanded="true" signature="493:613" ph="..." />
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#1173#1319#0" />
+                <element signature="e#1354#1393#0" />
+                <marker date="1539617070072" expanded="true" signature="250:442" ph="..." />
+                <marker date="1539617070072" expanded="true" signature="609:730" ph="..." />
+                <marker date="1539617070072" expanded="false" signature="892:893" ph="..." />
+                <marker date="1539617070072" expanded="true" signature="892:897" ph="..." />
+                <marker date="1539617070072" expanded="true" signature="1409:1418" ph="..." />
+                <marker date="1539617070072" expanded="true" signature="1473:1478" ph="..." />
               </folding>
             </state>
           </provider>
@@ -187,8 +194,8 @@
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-3 面向对象/11-文件操作/01-读取文件.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/01-绘制图形.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/feiji.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" />
       </list>
     </option>
   </component>
@@ -493,7 +500,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -560,15 +567,16 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.plane_main" />
+      <item itemvalue="Python.01-绘制图形" />
+      <item itemvalue="Python.02-单例" />
       <item itemvalue="Python.03-主动抛出异常" />
       <item itemvalue="Python.setup" />
       <item itemvalue="Python.feiji" />
-      <item itemvalue="Python.plane_main" />
       <item itemvalue="Python.plane_sprites" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plane_main" />
         <item itemvalue="Python.plane_sprites" />
         <item itemvalue="Python.feiji" />
         <item itemvalue="Python.setup" />
@@ -593,12 +601,12 @@
     <frame x="0" y="23" width="1280" height="707" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.18416801" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.18901454" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.25121164" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22203673" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22203673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -952,33 +960,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="36" column="14" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="36" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="70">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1539533733197" expanded="true" signature="68:73" ph="..." />
-            <marker date="1539533733197" expanded="true" signature="455:461" ph="..." />
-            <marker date="1539533733197" expanded="true" signature="1009:1010" ph="..." />
+            <marker date="1539617321016" expanded="true" signature="68:73" ph="..." />
+            <marker date="1539617321016" expanded="true" signature="733:739" ph="..." />
+            <marker date="1539617321016" expanded="true" signature="1282:1283" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="280">
+          <caret line="10" column="15" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
           <folding>
-            <marker date="1539534070485" expanded="true" signature="134:326" ph="..." />
-            <marker date="1539534070485" expanded="true" signature="437:748" ph="..." />
-            <marker date="1539534070485" expanded="true" signature="493:613" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#1173#1319#0" />
+            <element signature="e#1354#1393#0" />
+            <marker date="1539617070072" expanded="true" signature="250:442" ph="..." />
+            <marker date="1539617070072" expanded="true" signature="609:730" ph="..." />
+            <marker date="1539617070072" expanded="false" signature="892:893" ph="..." />
+            <marker date="1539617070072" expanded="true" signature="892:897" ph="..." />
+            <marker date="1539617070072" expanded="true" signature="1409:1418" ph="..." />
+            <marker date="1539617070072" expanded="true" signature="1473:1478" ph="..." />
           </folding>
         </state>
       </provider>

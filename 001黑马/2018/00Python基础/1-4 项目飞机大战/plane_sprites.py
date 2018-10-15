@@ -34,7 +34,7 @@ class Background(GameSprite):
     def update(self):
         super().update()
         if self.rect.y >= SCREEN_RECT.height:
-            self.rect.y == -SCREEN_RECT.height
+            self.rect.y == -self.rect.height
 
 
 class Enemy(GameSprite):
@@ -66,6 +66,7 @@ class Hero(GameSprite):
         super().__init__("./images/me1.png", 0)
         self.rect.centerx = SCREEN_RECT.centerx
         self.rect.bottom = SCREEN_RECT.bottom - 120
+        self.bullets = pygame.sprite.Group()
 
     def update(self):
         self.rect.x += self.speed
@@ -75,3 +76,26 @@ class Hero(GameSprite):
             self.rect.right = SCREEN_RECT.right
 
     def fire(self):
+        for i in (0, 1, 2):
+            # 创建子弹精灵
+            bullet = Bullet()
+            # 设置精灵位置
+            bullet.rect.bottom = self.rect.y - i * 20
+            bullet.rect.centerx = self.rect.centerx
+            # 添加到精灵组
+            self.bullets.add(bullet)
+
+
+class Bullet(GameSprite):
+    """子弹精灵类"""
+
+    def __init__(self):
+        super().__init__("./images/bullet1.png", -2)
+
+    def update(self):
+        super().update()
+        if self.rect.bottom < 0:
+            self.kill()
+
+    def __del__(self):
+        print("子弹被销毁")

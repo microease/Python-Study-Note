@@ -11,13 +11,13 @@ class PlaneGame(object):
         self.clock = pygame.time.Clock()
         self.__create_sprites()
         pygame.time.set_timer(CREATE_ENEMY_EVENT, 1000)
-        pygame.time.set_timer(HERO_FIRE_EVENT,500)
+        pygame.time.set_timer(HERO_FIRE_EVENT, 500)
 
     def __create_sprites(self):
         # 创建背景和精灵组
         bg1 = Background()
         bg2 = Background(True)
-        bg2.rect.y = -bg2.rect.height
+        # bg2.rect.y = -bg2.rect.height
         self.back_group = pygame.sprite.Group(bg1, bg2)
         # 创建敌机精灵组
         self.enemy_group = pygame.sprite.Group()
@@ -58,14 +58,18 @@ class PlaneGame(object):
             #     print(" 向右")
         keys_pressed = pygame.key.get_pressed()
         if keys_pressed[pygame.K_RIGHT]:
-            self.hero.speed = 1
+            self.hero.speed = 2
         elif keys_pressed[pygame.K_LEFT]:
-            self.hero.speed = -1
+            self.hero.speed = -2
         else:
             self.hero.speed = 0
 
     def __check_collide(self):
-        pass
+        pygame.sprite.groupcollide(self.hero.bullets, self.enemy_group, True, True)
+        enemies = pygame.sprite.spritecollide(self.hero, self.enemy_group, True)
+        if len(enemies) > 0:
+            self.hero.kill()
+            PlaneGame.__game_over()
 
     def __update_sprites(self):
         self.back_group.update()
@@ -76,6 +80,9 @@ class PlaneGame(object):
 
         self.hero_group.update()
         self.hero_group.draw(self.screen)
+
+        self.hero.bullets.update()
+        self.hero.bullets.draw(self.screen)
 
     @staticmethod
     def __game_over():

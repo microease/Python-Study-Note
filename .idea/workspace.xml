@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/01-发送数据demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/02-绑定端口用来接收数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,18 +39,18 @@
     <session id="-1776742660">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,7 +58,7 @@
           <entry key="README" value="1" />
           <entry key="png" value="2" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="52" />
+          <entry key="py" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -65,57 +66,45 @@
           <entry key="Image" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="52" />
+          <entry key="Python" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="2" />
           <entry key="dummy" value="20" />
-          <entry key="py" value="11754" />
+          <entry key="py" value="12236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="11754" />
+          <entry key="Python" value="12236" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/01-发送数据demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="224">
+              <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1539620888956" expanded="true" signature="68:73" ph="..." />
-                <marker date="1539620888956" expanded="true" signature="736:742" ph="..." />
-                <marker date="1539620888956" expanded="true" signature="1285:1286" ph="..." />
+                <marker date="1539700318504" expanded="true" signature="27:296" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/02-绑定端口用来接收数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+            <state relative-caret-position="308">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1539621193961" expanded="true" signature="250:442" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="609:730" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="890:891" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="890:895" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="1407:1416" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="1471:1476" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="1948:1949" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="1948:1961" ph="..." />
-                <marker date="1539621193961" expanded="true" signature="2212:2217" ph="..." />
+                <marker date="1539698766951" expanded="true" signature="27:370" ph="..." />
               </folding>
             </state>
           </provider>
@@ -145,8 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/14-函数的参数和返回值/01-函数的参数.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/15-函数的嵌套调用/02-打印分割线.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/17-列表/01-第一个列表.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/18-元祖/01-第一个元祖.py" />
@@ -196,6 +183,8 @@
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/feiji.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/02-绑定端口用来接收数据.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/01-发送数据demo.py" />
       </list>
     </option>
   </component>
@@ -218,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,24 +230,15 @@
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
+              <item name="01 网络编程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="1-4 项目飞机大战" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="00Python基础" type="462c0819:PsiDirectoryNode" />
-              <item name="1-4 项目飞机大战" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="01 网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="02-udp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
@@ -270,6 +249,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -601,12 +581,12 @@
     <frame x="0" y="23" width="1280" height="707" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.18901454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.1914378" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.25121164" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22203673" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22203673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,20 +614,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/13-函数的基本使用/02-调用函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/13-函数的基本使用/03-第一个函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/14-函数的参数和返回值/01-函数的参数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -965,32 +931,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1539620888956" expanded="true" signature="68:73" ph="..." />
-            <marker date="1539620888956" expanded="true" signature="736:742" ph="..." />
-            <marker date="1539620888956" expanded="true" signature="1285:1286" ph="..." />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-4 项目飞机大战/plane_sprites.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="1115">
           <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/02-绑定端口用来接收数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1539621193961" expanded="true" signature="250:442" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="609:730" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="890:891" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="890:895" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="1407:1416" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="1471:1476" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="1948:1949" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="1948:1961" ph="..." />
-            <marker date="1539621193961" expanded="true" signature="2212:2217" ph="..." />
+            <marker date="1539698766951" expanded="true" signature="27:370" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/01-发送数据demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+          <folding>
+            <marker date="1539700318504" expanded="true" signature="27:296" ph="..." />
           </folding>
         </state>
       </provider>

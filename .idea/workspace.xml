@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/03-udp聊天程序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/01 网络编程/03-tcp客户端/01-tcp客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/01 网络编程/04-tcp服务器/01-tcp服务器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +40,7 @@
     <session id="-1776742660">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
@@ -58,7 +59,7 @@
           <entry key="README" value="1" />
           <entry key="png" value="2" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="57" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -66,39 +67,26 @@
           <entry key="Image" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="57" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="2" />
           <entry key="dummy" value="25" />
-          <entry key="py" value="12653" />
+          <entry key="py" value="13214" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="12653" />
+          <entry key="Python" value="13214" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/03-udp聊天程序.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding>
-                <marker date="1539701695643" expanded="true" signature="246:359" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,8 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/18-元祖/01-第一个元祖.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/19-字典/01-第一个字典.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/20-字符串/01-第一个字符串.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/22-名片管理系统/01-名片管理系统.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/22-名片管理系统/cards_input.py" />
@@ -173,6 +159,8 @@
         <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/01-发送数据demo.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/03-udp.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/03-udp聊天程序.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/03-tcp客户端/01-tcp客户端.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/01 网络编程/04-tcp服务器/01-tcp服务器.py" />
       </list>
     </option>
   </component>
@@ -219,14 +207,6 @@
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="01 网络编程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="01 网络编程" type="462c0819:PsiDirectoryNode" />
-              <item name="02-udp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
@@ -545,14 +525,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="707" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.1914378" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.1914378" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.25121164" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22203673" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22203673" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,20 +559,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/15-函数的嵌套调用/01-函数的嵌套调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/15-函数的嵌套调用/02-打印分割线.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/17-列表/01-第一个列表.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -924,10 +889,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/02-udp/03-udp聊天程序.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="189">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <marker date="1539701695643" expanded="true" signature="246:359" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/04-tcp服务器/01-tcp服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <marker date="1539705723020" expanded="true" signature="27:32" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/01 网络编程/03-tcp客户端/01-tcp客户端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1539704657607" expanded="true" signature="27:384" ph="..." />
           </folding>
         </state>
       </provider>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e0f6e0-75a5-4b90-b64b-b68774cb08af" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/06-使用互斥锁解决资源竞争的问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/07-多任务版UDP聊天器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +41,7 @@
     <session id="-1776742660">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
@@ -61,7 +61,7 @@
           <entry key="README" value="1" />
           <entry key="png" value="2" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="66" />
+          <entry key="py" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -69,36 +69,50 @@
           <entry key="Image" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="66" />
+          <entry key="Python" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="2" />
           <entry key="dummy" value="35" />
-          <entry key="py" value="14373" />
+          <entry key="py" value="14733" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="37" />
-          <entry key="Python" value="14373" />
+          <entry key="Python" value="14733" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/06-使用互斥锁解决资源竞争的问题.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="-7">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
                 <marker date="1539964704834" expanded="true" signature="57:62" ph="..." />
                 <marker date="1539964704834" expanded="true" signature="200:205" ph="..." />
                 <marker date="1539964704834" expanded="true" signature="339:344" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/07-多任务版UDP聊天器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1539966644614" expanded="true" signature="193:327" ph="..." />
+                <marker date="1539966644614" expanded="true" signature="338:687" ph="..." />
               </folding>
             </state>
           </provider>
@@ -128,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/25-函数的返回值和参数进阶/01-交换两个数字的值.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/25-函数的返回值和参数进阶/02-多值参数求和.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/25-函数的返回值和参数进阶/03-元祖和字典的拆包.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/00Python基础/25-函数的返回值和参数进阶/04-第一个递归程序.py" />
@@ -179,6 +192,7 @@
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/04-多线程共享全局变量.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/05-多线程共享全局变量2.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/06-使用互斥锁解决资源竞争的问题.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/07-多任务版UDP聊天器.py" />
       </list>
     </option>
   </component>
@@ -253,7 +267,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -515,7 +529,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49863014" visible="true" weight="0.25202313" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49863014" weight="0.25202313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,9 +557,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/22-名片管理系统/cards_input.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/00Python基础/1-2 python基础/24-局部变量和全局变量/002-全局变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -906,13 +917,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/06-使用互斥锁解决资源竞争的问题.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="-7">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
             <marker date="1539964704834" expanded="true" signature="57:62" ph="..." />
             <marker date="1539964704834" expanded="true" signature="200:205" ph="..." />
             <marker date="1539964704834" expanded="true" signature="339:344" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/01-线程/07-多任务版UDP聊天器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1539966644614" expanded="true" signature="193:327" ph="..." />
+            <marker date="1539966644614" expanded="true" signature="338:687" ph="..." />
           </folding>
         </state>
       </provider>

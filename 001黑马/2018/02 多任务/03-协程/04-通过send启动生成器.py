@@ -5,7 +5,7 @@ def create_num(all_num):
         ret = yield a
         print("aaa",ret)
         a, b = b, a + b
-        current_num += 1
+        curre nt_num += 1
 
 
 obj = create_num(10)

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="" />
+    <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +14,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-自己实现一个可以迭代的对象 Coverage Results" MODIFIED="1540115953907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-自己实现一个可以迭代的对象 Coverage Results" MODIFIED="1540120154783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$02__.coverage" NAME="02-斐波那契数列-迭代器实现 Coverage Results" MODIFIED="1540120229834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-通过队列完成进程中通信 Coverage Results" MODIFIED="1540085375648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-文件夹拷贝器 Coverage Results" MODIFIED="1540092633984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
   </component>
@@ -25,41 +31,50 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="15" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="3" />
-          <entry key="py" value="1492" />
+          <entry key="dummy" value="11" />
+          <entry key="py" value="1961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="1492" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="1961" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/01-自己实现一个可以迭代的对象.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state relative-caret-position="364">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1540115952188" expanded="true" signature="64:69" ph="..." />
-                <marker date="1540115952188" expanded="true" signature="265:617" ph="..." />
-                <marker date="1540115952188" expanded="true" signature="384:390" ph="..." />
+                <marker date="1540120541889" expanded="true" signature="24:29" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <marker date="1540122044904" expanded="true" signature="24:29" ph="..." />
               </folding>
             </state>
           </provider>
@@ -91,6 +106,9 @@
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹靠背器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/01-自己实现一个可以迭代的对象.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py" />
       </list>
     </option>
   </component>
@@ -176,29 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01-自己实现一个可以迭代的对象">
-    <configuration name="01-使用进程创建多任务" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/01-使用进程创建多任务.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.03-斐波那契数列-生成器实现">
     <configuration name="01-自己实现一个可以迭代的对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-通过队列完成进程中通信" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-斐波那契数列-迭代器实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,12 +225,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/02-通过队列完成进程中通信.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03-斐波那契数列-生成器实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,19 +306,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.01-使用进程创建多任务" />
-      <item itemvalue="Python.02-通过队列完成进程中通信" />
       <item itemvalue="Python.03-多进程中通过Queue实现数据共享" />
       <item itemvalue="Python.05-文件夹拷贝器" />
       <item itemvalue="Python.01-自己实现一个可以迭代的对象" />
+      <item itemvalue="Python.02-斐波那契数列-迭代器实现" />
+      <item itemvalue="Python.03-斐波那契数列-生成器实现" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03-斐波那契数列-生成器实现" />
+        <item itemvalue="Python.02-斐波那契数列-迭代器实现" />
         <item itemvalue="Python.01-自己实现一个可以迭代的对象" />
         <item itemvalue="Python.05-文件夹拷贝器" />
         <item itemvalue="Python.03-多进程中通过Queue实现数据共享" />
-        <item itemvalue="Python.02-通过队列完成进程中通信" />
-        <item itemvalue="Python.01-使用进程创建多任务" />
       </list>
     </recent_temporary>
   </component>
@@ -409,12 +427,32 @@
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/01-自己实现一个可以迭代的对象.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <marker date="1540115952188" expanded="true" signature="64:69" ph="..." />
             <marker date="1540115952188" expanded="true" signature="265:617" ph="..." />
             <marker date="1540115952188" expanded="true" signature="384:390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <marker date="1540120541889" expanded="true" signature="24:29" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1540122044904" expanded="true" signature="24:29" ph="..." />
           </folding>
         </state>
       </provider>

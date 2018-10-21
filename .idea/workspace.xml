@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/04-进程池.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/01-使用进程创建多任务.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/02-通过队列完成进程中通信.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/03-多进程中通过Queue实现数据共享.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/04-进程池.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/03-多进程中通过Queue实现数据共享.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/03-多进程中通过Queue实现数据共享.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +19,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-使用进程创建多任务 Coverage Results" MODIFIED="1540085159963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-通过队列完成进程中通信 Coverage Results" MODIFIED="1540085375648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-文件夹拷贝器 Coverage Results" MODIFIED="1540089109161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-文件夹拷贝器 Coverage Results" MODIFIED="1540092633984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1776742660">
@@ -29,24 +31,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="396" />
+          <entry key="py" value="950" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="396" />
+          <entry key="Python" value="950" />
         </counts>
       </usages-collector>
     </session>
@@ -56,8 +58,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="604">
+              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1540092479577" expanded="true" signature="187:446" ph="..." />
+                <marker date="1540092479577" expanded="true" signature="457:462" ph="..." />
+                <marker date="1540092479577" expanded="true" signature="457:995" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +78,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new_folder_name</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,6 +162,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -284,7 +302,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24976526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24976526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -295,7 +313,7 @@
       <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="0" y="545" width="809" height="451" id="Run" order="2" type="WINDOWED" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" x="0" y="545" width="809" height="451" id="Run" order="2" type="WINDOWED" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,16 +339,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/01-使用进程创建多任务.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/03-多进程中通过Queue实现数据共享.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
@@ -345,10 +353,29 @@
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/04-进程池.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/01-使用进程创建多任务.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/01-使用进程创建多任务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="604">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1540092479577" expanded="true" signature="187:446" ph="..." />
+            <marker date="1540092479577" expanded="true" signature="457:462" ph="..." />
+            <marker date="1540092479577" expanded="true" signature="457:995" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

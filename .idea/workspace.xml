@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/01-使用进程创建多任务.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/02-通过队列完成进程中通信.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/03-多进程中通过Queue实现数据共享.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/04-进程池.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" afterDir="false" />
-    </list>
+    <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +47,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1540092479577" expanded="true" signature="187:446" ph="..." />
-                <marker date="1540092479577" expanded="true" signature="457:462" ph="..." />
-                <marker date="1540092479577" expanded="true" signature="457:995" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -143,14 +120,6 @@
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="02 多任务" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="02 多任务" type="462c0819:PsiDirectoryNode" />
-              <item name="02-进程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,7 +268,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="811" y="23" width="1109" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24976526" />

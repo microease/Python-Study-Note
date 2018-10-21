@@ -5,7 +5,7 @@ def test1(q):
     data = [11, 22, 33, 44, 55]
     for temp in data:
         q.put(temp)
-    print("列表全部放进去了")
+    print("列表全部放进去了") 
 
 
 def test2(q):

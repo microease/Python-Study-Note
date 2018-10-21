@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/05-使用yield完成多任务.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/06-greenlet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/07-gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/08-并发图片下载器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/04-通过send启动生成器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/04-通过send启动生成器.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Study_Note$08_.coverage" NAME="08-并发图片下载器 Coverage Results" MODIFIED="1540141079253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-自己实现一个可以迭代的对象 Coverage Results" MODIFIED="1540120154783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02__.coverage" NAME="02-斐波那契数列-迭代器实现 Coverage Results" MODIFIED="1540120229834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_greenlet.coverage" NAME="06-greenlet Coverage Results" MODIFIED="1540137307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$07_gevent.coverage" NAME="07-gevent Coverage Results" MODIFIED="1540138556416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-通过队列完成进程中通信 Coverage Results" MODIFIED="1540085375648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-文件夹拷贝器 Coverage Results" MODIFIED="1540092633984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
@@ -36,55 +37,43 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="21" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="21" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="py" value="2464" />
+          <entry key="py" value="2853" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="2464" />
+          <entry key="Python" value="2853" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/05-使用yield完成多任务.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-              <folding>
-                <marker date="1540135080380" expanded="true" signature="26:31" ph="..." />
-                <marker date="1540135080380" expanded="true" signature="119:124" ph="..." />
-                <marker date="1540135080380" expanded="true" signature="210:297" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/06-greenlet.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/08-并发图片下载器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            <state relative-caret-position="112">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1540137305198" expanded="true" signature="56:61" ph="..." />
-                <marker date="1540137305198" expanded="true" signature="151:156" ph="..." />
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1540141235383" expanded="true" signature="118:123" ph="..." />
+                <marker date="1540141235383" expanded="true" signature="268:273" ph="..." />
               </folding>
             </state>
           </provider>
@@ -122,6 +111,8 @@
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/04-通过send启动生成器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/05-使用yield完成多任务.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/06-greenlet.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/07-gevent.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/08-并发图片下载器.py" />
       </list>
     </option>
   </component>
@@ -207,51 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06-greenlet">
-    <configuration name="02-斐波那契数列-迭代器实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03-斐波那契数列-生成器实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.08-并发图片下载器">
     <configuration name="04-通过send启动生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,20 +265,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="07-gevent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/07-gevent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08-并发图片下载器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/08-并发图片下载器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.02-斐波那契数列-迭代器实现" />
-      <item itemvalue="Python.03-斐波那契数列-生成器实现" />
       <item itemvalue="Python.04-通过send启动生成器" />
       <item itemvalue="Python.05-使用yield完成多任务" />
       <item itemvalue="Python.06-greenlet" />
+      <item itemvalue="Python.07-gevent" />
+      <item itemvalue="Python.08-并发图片下载器" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08-并发图片下载器" />
+        <item itemvalue="Python.07-gevent" />
         <item itemvalue="Python.06-greenlet" />
         <item itemvalue="Python.05-使用yield完成多任务" />
         <item itemvalue="Python.04-通过send启动生成器" />
-        <item itemvalue="Python.03-斐波那契数列-生成器实现" />
-        <item itemvalue="Python.02-斐波那契数列-迭代器实现" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +358,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32947975" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,6 +456,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/06-greenlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1540137305198" expanded="true" signature="56:61" ph="..." />
+            <marker date="1540137305198" expanded="true" signature="151:156" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/05-使用yield完成多任务.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -477,14 +480,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/06-greenlet.py">
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/07-gevent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="112">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1540137305198" expanded="true" signature="56:61" ph="..." />
-            <marker date="1540137305198" expanded="true" signature="151:156" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1540139563817" expanded="true" signature="83:84" ph="..." />
+            <marker date="1540139563817" expanded="true" signature="83:88" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/08-并发图片下载器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1540141235383" expanded="true" signature="118:123" ph="..." />
+            <marker date="1540141235383" expanded="true" signature="268:273" ph="..." />
           </folding>
         </state>
       </provider>

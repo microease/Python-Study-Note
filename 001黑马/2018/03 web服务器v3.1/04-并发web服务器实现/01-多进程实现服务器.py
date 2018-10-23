@@ -24,13 +24,13 @@ def main():
     tcp_server_socket.bind(("", 2333))
     # 变为监听套接字
     tcp_server_socket.listen(128)
-    # 等待新的客户端连接
-    new_socket, client_addr = tcp_server_socket.accept()
-    p = multiprocessing.Process(target=server_client, args=(new_socket,))
-    p.start()
-
-    # 为这个客户端服务
-    server_client(new_socket)
+    while True:
+        # 等待新的客户端连接
+        new_socket, client_addr = tcp_server_socket.accept()
+        p = multiprocessing.Process(target=server_client, args=(new_socket,))
+        p.start()
+        new_socket.close()
+    tcp_server_socket.close()
 
 
 if __name__ == '__main__':

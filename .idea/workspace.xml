@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/02-多线程实现服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/03-gevent实现服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/04-单进程单进程非阻塞.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-多进程实现服务器.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,40 +44,49 @@
         <counts>
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="33" />
+          <entry key="py" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="11" />
-          <entry key="py" value="3849" />
+          <entry key="dummy" value="20" />
+          <entry key="py" value="4404" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="3849" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="4404" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/03-gevent实现服务器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="540">
+              <caret line="24" column="73" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="73" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/04-单进程单进程非阻塞.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -120,6 +131,10 @@
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/02-多线程实现服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/03-gevent实现服务区.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/03-gevent实现服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/04-单进程单进程非阻塞.py" />
       </list>
     </option>
   </component>
@@ -175,7 +190,7 @@
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="03 web服务器v3.1" type="462c0819:PsiDirectoryNode" />
-              <item name="03-简单web服务器实现" type="462c0819:PsiDirectoryNode" />
+              <item name="04-并发web服务器实现" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -522,13 +537,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py">
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-多进程实现服务器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="436">
+          <caret line="30" column="17" selection-end-line="37" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/02-多线程实现服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="4" column="16" lean-forward="true" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/03-gevent实现服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="24" column="73" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/04-单进程单进程非阻塞.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>

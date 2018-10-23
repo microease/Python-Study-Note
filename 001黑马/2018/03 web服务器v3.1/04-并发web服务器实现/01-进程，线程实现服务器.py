@@ -1,4 +1,5 @@
 import socket
+import multiprocessing
 
 
 def server_client(new_socket):
@@ -18,12 +19,16 @@ def server_client(new_socket):
 def main():
     # 创建套接字
     tcp_server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    tcp_server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     # 绑定
     tcp_server_socket.bind(("", 2333))
     # 变为监听套接字
     tcp_server_socket.listen(128)
     # 等待新的客户端连接
     new_socket, client_addr = tcp_server_socket.accept()
+    p = multiprocessing.Process(target=server_client, args=(new_socket,))
+    p.start()
+
     # 为这个客户端服务
     server_client(new_socket)
 

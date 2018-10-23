@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,51 +42,40 @@
         <counts>
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="30" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="30" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="py" value="3647" />
+          <entry key="py" value="3849" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="3647" />
+          <entry key="Python" value="3849" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="14" lean-forward="true" selection-end-line="28" />
-              <folding>
-                <marker date="1540222679944" expanded="true" signature="46:258" ph="..." />
-                <marker date="1540222679944" expanded="true" signature="269:274" ph="..." />
-                <marker date="1540222679944" expanded="true" signature="269:572" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="520">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,6 +119,7 @@
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/03-匹配163邮箱地址.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py" />
       </list>
     </option>
   </component>
@@ -512,10 +503,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="26" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="14" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="140">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
             <marker date="1540222679944" expanded="true" signature="46:258" ph="..." />
             <marker date="1540222679944" expanded="true" signature="269:274" ph="..." />
@@ -524,10 +522,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py">
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/04-并发web服务器实现/01-进程，线程实现服务器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="520">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

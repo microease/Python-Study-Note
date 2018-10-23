@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/01-正则测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/02-判断变量名是否符合要求.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/03-匹配163邮箱地址.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +20,7 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_greenlet.coverage" NAME="06-greenlet Coverage Results" MODIFIED="1540137307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$07_gevent.coverage" NAME="07-gevent Coverage Results" MODIFIED="1540138556416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-判断变量名是否符合要求 Coverage Results" MODIFIED="1540214095807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-返回浏览器需要的页面服务器 Coverage Results" MODIFIED="1540295854847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-文件夹拷贝器 Coverage Results" MODIFIED="1540092633984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_yield.coverage" NAME="05-使用yield完成多任务 Coverage Results" MODIFIED="1540135081964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
@@ -35,22 +32,23 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="29" />
+          <entry key="py" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="29" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -69,16 +67,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="196">
+              <caret line="7" column="14" lean-forward="true" selection-end-line="28" />
               <folding>
                 <marker date="1540222679944" expanded="true" signature="46:258" ph="..." />
                 <marker date="1540222679944" expanded="true" signature="269:274" ph="..." />
                 <marker date="1540222679944" expanded="true" signature="269:572" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -121,6 +128,7 @@
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/02-判断变量名是否符合要求.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/03-匹配163邮箱地址.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" />
       </list>
     </option>
   </component>
@@ -144,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,7 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03-匹配163邮箱地址">
+  <component name="RunManager" selected="Python.02-返回浏览器需要的页面服务器">
     <configuration name="01-正则测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,6 +259,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="02-返回浏览器需要的页面服务器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="03-匹配163邮箱地址" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,28 +295,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/03-匹配163邮箱地址.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="07-gevent" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/07-gevent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +326,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.07-gevent" />
       <item itemvalue="Python.08-并发图片下载器" />
       <item itemvalue="Python.01-正则测试" />
       <item itemvalue="Python.02-判断变量名是否符合要求" />
       <item itemvalue="Python.03-匹配163邮箱地址" />
+      <item itemvalue="Python.02-返回浏览器需要的页面服务器" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02-返回浏览器需要的页面服务器" />
         <item itemvalue="Python.03-匹配163邮箱地址" />
         <item itemvalue="Python.02-判断变量名是否符合要求" />
         <item itemvalue="Python.01-正则测试" />
         <item itemvalue="Python.08-并发图片下载器" />
-        <item itemvalue="Python.07-gevent" />
       </list>
     </recent_temporary>
   </component>
@@ -349,13 +357,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="811" y="23" width="1109" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25915492" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26384977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="0" y="545" width="809" height="451" id="Run" order="2" type="WINDOWED" weight="0.32947975" />
+      <window_info anchor="bottom" x="0" y="548" width="809" height="448" id="Run" order="2" type="WINDOWED" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -479,11 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="11" selection-start-line="10" selection-start-column="9" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1540141235383" expanded="true" signature="118:123" ph="..." />
-            <marker date="1540141235383" expanded="true" signature="268:273" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,9 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding>
-            <marker date="1540213822550" expanded="true" signature="23:277" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -508,21 +509,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <marker date="1540214204540" expanded="true" signature="23:205" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="196">
+          <caret line="7" column="14" lean-forward="true" selection-end-line="28" />
           <folding>
             <marker date="1540222679944" expanded="true" signature="46:258" ph="..." />
             <marker date="1540222679944" expanded="true" signature="269:274" ph="..." />
             <marker date="1540222679944" expanded="true" signature="269:572" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>

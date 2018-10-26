@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/01-列表推导式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/02-上下文管理器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/03-装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/04-切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/05-迭代.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/06-map函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,18 +18,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Study_Note$08_.coverage" NAME="08-并发图片下载器 Coverage Results" MODIFIED="1540141079253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$04_.coverage" NAME="04-切片 Coverage Results" MODIFIED="1540554957225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_163.coverage" NAME="03-匹配163邮箱地址 Coverage Results" MODIFIED="1540214206372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-浅拷贝 Coverage Results" MODIFIED="1540384706749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02__.coverage" NAME="02-斐波那契数列-迭代器实现 Coverage Results" MODIFIED="1540120229834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$06_map.coverage" NAME="06-map函数 Coverage Results" MODIFIED="1540555289062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$05_yield.coverage" NAME="05-使用yield完成多任务 Coverage Results" MODIFIED="1540135081964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-迭代 Coverage Results" MODIFIED="1540555105066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$08_.coverage" NAME="08-并发图片下载器 Coverage Results" MODIFIED="1540141079253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$07_reduce.coverage" NAME="07-reduce函数 Coverage Results" MODIFIED="1540555410236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-列表推导式 Coverage Results" MODIFIED="1540553722881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_greenlet.coverage" NAME="06-greenlet Coverage Results" MODIFIED="1540137307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$07_gevent.coverage" NAME="07-gevent Coverage Results" MODIFIED="1540138556416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-深拷贝 Coverage Results" MODIFIED="1540385481379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-文件夹拷贝器 Coverage Results" MODIFIED="1540092633984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$05_yield.coverage" NAME="05-使用yield完成多任务 Coverage Results" MODIFIED="1540135081964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1776742660">
@@ -32,10 +42,11 @@
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,7 +54,7 @@
           <entry key="03-C语言" value="1" />
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="54" />
+          <entry key="py" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -51,26 +62,79 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="54" />
+          <entry key="Python" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="03-C语言" value="87" />
-          <entry key="dummy" value="20" />
-          <entry key="py" value="4838" />
+          <entry key="dummy" value="26" />
+          <entry key="py" value="5310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="107" />
-          <entry key="Python" value="4838" />
+          <entry key="PLAIN_TEXT" value="113" />
+          <entry key="Python" value="5310" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/05-迭代.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/01-列表推导式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/03-装饰器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1540554465550" expanded="true" signature="476:479" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/06-map函数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <marker date="1540555287577" expanded="true" signature="9:14" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,6 +185,14 @@
         <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/01-GIL锁/03-C语言" />
         <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝/01-浅拷贝.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝/02-深拷贝.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/01-列表推导式.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/02-上下文管理器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/03-装饰器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/04-切片.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/05-迭代.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/06-map函数.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-reduce函数.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py" />
       </list>
     </option>
   </component>
@@ -130,10 +202,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="818" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="213" />
     <option name="y" value="23" />
-    <option name="width" value="1102" />
+    <option name="width" value="1707" />
     <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -145,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,11 +243,18 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="04 Python高级语法v3.1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="04 Python高级语法v3.1" type="462c0819:PsiDirectoryNode" />
+              <item name="06-自习" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,8 +279,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02-深拷贝">
-    <configuration name="01-浅拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.07-reduce函数">
+    <configuration name="01-列表推导式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,12 +288,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝/01-浅拷贝.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/01-列表推导式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,28 +316,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/01-GIL锁/01-单线程死循环.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02-深拷贝" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝/02-深拷贝.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-匹配163邮箱地址" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04-切片" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,12 +376,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式/03-匹配163邮箱地址.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/04-切片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-迭代" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/05-迭代.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06-map函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/06-map函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07-reduce函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,15 +457,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.03-匹配163邮箱地址" />
-      <item itemvalue="Python.01-浅拷贝" />
-      <item itemvalue="Python.02-深拷贝" />
+      <item itemvalue="Python.01-列表推导式" />
+      <item itemvalue="Python.04-切片" />
+      <item itemvalue="Python.05-迭代" />
+      <item itemvalue="Python.06-map函数" />
+      <item itemvalue="Python.07-reduce函数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02-深拷贝" />
-        <item itemvalue="Python.01-浅拷贝" />
-        <item itemvalue="Python.03-匹配163邮箱地址" />
+        <item itemvalue="Python.07-reduce函数" />
+        <item itemvalue="Python.06-map函数" />
+        <item itemvalue="Python.05-迭代" />
+        <item itemvalue="Python.04-切片" />
+        <item itemvalue="Python.01-列表推导式" />
       </list>
     </recent_temporary>
   </component>
@@ -359,9 +487,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="818" y="23" width="1102" height="974" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="974" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22589792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,7 +503,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32947975" />
       <window_info anchor="bottom" id="调试" order="11" weight="0.32947975" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32947975" />
       <window_info anchor="bottom" id="Python Console" order="13" />
@@ -602,6 +731,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/04-切片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/02-上下文管理器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/05-迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/01-列表推导式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/03-装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1540554465550" expanded="true" signature="476:479" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/06-map函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <marker date="1540555287577" expanded="true" signature="9:14" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>

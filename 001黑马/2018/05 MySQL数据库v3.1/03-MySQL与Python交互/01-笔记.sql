@@ -37,3 +37,39 @@ insert into goods values(0,'hmz-t3w 头戴显示设备','笔记本配件','索�
 insert into goods values(0,'商务双肩背包','笔记本配件','索尼','99',default,default); 
 insert into goods values(0,'x3250 m4机架式服务器','服务器/工作站','ibm','6888',default,default); 
 insert into goods values(0,'商务双肩背包','笔记本配件','索尼','99',default,default);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

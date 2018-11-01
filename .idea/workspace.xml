@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +39,8 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,26 +65,32 @@
         <counts>
           <entry key="03-C语言" value="87" />
           <entry key="dummy" value="26" />
-          <entry key="py" value="5477" />
+          <entry key="py" value="6257" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="113" />
-          <entry key="Python" value="5477" />
+          <entry key="Python" value="6256" />
+          <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="4" column="114" selection-start-line="4" selection-start-column="114" selection-end-line="4" selection-end-column="114" />
+            <state relative-caret-position="187">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding>
-                <marker date="1541001397173" expanded="true" signature="35:40" ph="..." />
+                <marker date="1541078256624" expanded="true" signature="41:1273" ph="..." />
+                <marker date="1541078256624" expanded="true" signature="371:478" ph="..." />
+                <marker date="1541078256624" expanded="true" signature="698:781" ph="..." />
+                <marker date="1541078256624" expanded="true" signature="816:960" ph="..." />
+                <marker date="1541078256624" expanded="true" signature="1284:1289" ph="..." />
+                <marker date="1541078256624" expanded="true" signature="1284:1314" ph="..." />
               </folding>
             </state>
           </provider>
@@ -175,7 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,7 +457,7 @@
     <frame x="775" y="23" width="1145" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2297911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23433243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -750,10 +755,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="114" selection-start-line="4" selection-start-column="114" selection-end-line="4" selection-end-column="114" />
+        <state relative-caret-position="187">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding>
-            <marker date="1541001397173" expanded="true" signature="35:40" ph="..." />
+            <marker date="1541078256624" expanded="true" signature="41:1273" ph="..." />
+            <marker date="1541078256624" expanded="true" signature="371:478" ph="..." />
+            <marker date="1541078256624" expanded="true" signature="698:781" ph="..." />
+            <marker date="1541078256624" expanded="true" signature="816:960" ph="..." />
+            <marker date="1541078256624" expanded="true" signature="1284:1289" ph="..." />
+            <marker date="1541078256624" expanded="true" signature="1284:1314" ph="..." />
           </folding>
         </state>
       </provider>

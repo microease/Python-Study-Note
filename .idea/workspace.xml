@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +37,12 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,8 +50,8 @@
           <entry key="03-C语言" value="1" />
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="71" />
-          <entry key="sql" value="1" />
+          <entry key="py" value="80" />
+          <entry key="sql" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -57,28 +59,41 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="71" />
-          <entry key="SQL" value="1" />
+          <entry key="Python" value="80" />
+          <entry key="SQL" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="03-C语言" value="87" />
-          <entry key="dummy" value="26" />
-          <entry key="py" value="6257" />
+          <entry key="dummy" value="43" />
+          <entry key="py" value="6397" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="113" />
-          <entry key="Python" value="6256" />
+          <entry key="PLAIN_TEXT" value="130" />
+          <entry key="Python" value="6396" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,6 +153,8 @@
         <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-reduce函数.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-web服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py" />
       </list>
     </option>
   </component>
@@ -193,7 +210,30 @@
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="05 MySQL数据库v3.1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-mysql查询" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="05 MySQL数据库v3.1" type="462c0819:PsiDirectoryNode" />
               <item name="03-MySQL与Python交互" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="06 mini-web框架v3.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="06 mini-web框架v3.1" type="462c0819:PsiDirectoryNode" />
+              <item name="01-WSGI-mini-web框架" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -436,9 +476,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="775" y="23" width="1145" height="978" extended-state="0" />
+    <frame x="841" y="23" width="1079" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23433243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25410628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -734,6 +775,13 @@
     <entry file="file://$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/01-笔记.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/02-mysql查询/sql查询笔记.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -745,6 +793,23 @@
             <marker date="1541078256624" expanded="true" signature="816:960" ph="..." />
             <marker date="1541078256624" expanded="true" signature="1284:1289" ph="..." />
             <marker date="1541078256624" expanded="true" signature="1284:1314" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

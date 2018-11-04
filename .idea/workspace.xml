@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df981d50-090a-44a6-8f90-6d833d723442" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/01-闭包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/02-装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +16,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_Study_Note$04_.coverage" NAME="04-切片 Coverage Results" MODIFIED="1540554957225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_163.coverage" NAME="03-匹配163邮箱地址 Coverage Results" MODIFIED="1540214206372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$03_.coverage" NAME="03-有参数无返回值 Coverage Results" MODIFIED="1541322870543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02__.coverage" NAME="02-斐波那契数列-迭代器实现 Coverage Results" MODIFIED="1540120229834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_map.coverage" NAME="06-map函数 Coverage Results" MODIFIED="1540555289062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
@@ -21,11 +25,11 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$08_.coverage" NAME="08-并发图片下载器 Coverage Results" MODIFIED="1540141079253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$07_reduce.coverage" NAME="07-reduce函数 Coverage Results" MODIFIED="1540556196266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-列表推导式 Coverage Results" MODIFIED="1540553722881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-闭包 Coverage Results" MODIFIED="1541313632362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_greenlet.coverage" NAME="06-greenlet Coverage Results" MODIFIED="1540137307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$07_gevent.coverage" NAME="07-gevent Coverage Results" MODIFIED="1540138556416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
-    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-深拷贝 Coverage Results" MODIFIED="1540385481379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/02-深拷贝和浅拷贝" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-装饰器 Coverage Results" MODIFIED="1541322177563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1776742660">
@@ -35,6 +39,7 @@
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -42,7 +47,7 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,7 +55,7 @@
           <entry key="03-C语言" value="1" />
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="80" />
+          <entry key="py" value="91" />
           <entry key="sql" value="3" />
         </counts>
       </usages-collector>
@@ -59,21 +64,21 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="80" />
+          <entry key="Python" value="91" />
           <entry key="SQL" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="03-C语言" value="87" />
-          <entry key="dummy" value="43" />
-          <entry key="py" value="6397" />
+          <entry key="dummy" value="50" />
+          <entry key="py" value="6737" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="130" />
-          <entry key="Python" value="6396" />
+          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="Python" value="6736" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
@@ -82,13 +87,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py">
+        <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="168">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -155,6 +157,10 @@
         <option value="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-web服务器.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/01-闭包.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-无参数和无返回值的装饰器.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py" />
+        <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/02-装饰器.py" />
       </list>
     </option>
   </component>
@@ -165,9 +171,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="841" />
+    <option name="x" value="752" />
     <option name="y" value="23" />
-    <option name="width" value="1079" />
+    <option name="width" value="1168" />
     <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -179,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,29 +209,6 @@
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
               <item name="001黑马" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="05 MySQL数据库v3.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="05 MySQL数据库v3.1" type="462c0819:PsiDirectoryNode" />
-              <item name="02-mysql查询" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="05 MySQL数据库v3.1" type="462c0819:PsiDirectoryNode" />
-              <item name="03-MySQL与Python交互" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="06 mini-web框架v3.1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,11 +219,18 @@
               <item name="06 mini-web框架v3.1" type="462c0819:PsiDirectoryNode" />
               <item name="01-WSGI-mini-web框架" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="06 mini-web框架v3.1" type="462c0819:PsiDirectoryNode" />
+              <item name="02-闭包" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,8 +258,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07-reduce函数">
-    <configuration name="01-列表推导式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.03-有参数无返回值">
+    <configuration name="01-闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,12 +267,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/01-列表推导式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/01-闭包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-多进程死循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02-装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,12 +311,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/01-GIL锁" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/01-GIL锁/02-多进程死循环.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/02-装饰器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-切片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03-有参数无返回值" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,34 +355,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/04-切片.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05-迭代" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/05-迭代.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,20 +414,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.02-多进程死循环" />
-      <item itemvalue="Python.01-列表推导式" />
-      <item itemvalue="Python.04-切片" />
-      <item itemvalue="Python.05-迭代" />
       <item itemvalue="Python.06-map函数" />
       <item itemvalue="Python.07-reduce函数" />
+      <item itemvalue="Python.01-闭包" />
+      <item itemvalue="Python.02-装饰器" />
+      <item itemvalue="Python.03-有参数无返回值" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03-有参数无返回值" />
+        <item itemvalue="Python.02-装饰器" />
+        <item itemvalue="Python.01-闭包" />
         <item itemvalue="Python.07-reduce函数" />
         <item itemvalue="Python.06-map函数" />
-        <item itemvalue="Python.05-迭代" />
-        <item itemvalue="Python.04-切片" />
-        <item itemvalue="Python.01-列表推导式" />
       </list>
     </recent_temporary>
   </component>
@@ -476,14 +444,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="841" y="23" width="1079" height="978" extended-state="0" />
+    <frame x="752" y="23" width="1168" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2589372" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24288256" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="1" y="559" width="830" height="445" id="Run" order="2" type="WINDOWED" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" x="1" y="509" width="751" height="493" id="Run" order="2" type="WINDOWED" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,7 +461,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32947975" />
-      <window_info anchor="bottom" id="调试" order="11" weight="0.32947975" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.32911393" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32947975" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -507,6 +476,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/02-通过队列完成进程中通信.py">
@@ -797,11 +777,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="224">
+          <caret line="7" column="82" lean-forward="true" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/01-闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1541313639459" expanded="true" signature="15:16" ph="..." />
+            <marker date="1541313639459" expanded="true" signature="15:85" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/02-装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1541322868227" expanded="true" signature="33:34" ph="..." />
+            <marker date="1541322868227" expanded="true" signature="33:38" ph="..." />
+            <marker date="1541322868227" expanded="true" signature="278:283" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>

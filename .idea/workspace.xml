@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_greenlet.coverage" NAME="06-greenlet Coverage Results" MODIFIED="1540137307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
@@ -19,10 +20,20 @@
     <SUITE FILE_PATH="coverage/Python_Study_Note$06_map.coverage" NAME="06-map函数 Coverage Results" MODIFIED="1540555289062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$07_gevent.coverage" NAME="07-gevent Coverage Results" MODIFIED="1540138556416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-迭代 Coverage Results" MODIFIED="1540555105066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+=======
+    <SUITE FILE_PATH="coverage/Python_Study_Note$04_.coverage" NAME="04-用同一个装饰器对多个函数进行装饰 Coverage Results" MODIFIED="1541326100112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$05_.coverage" NAME="05-迭代 Coverage Results" MODIFIED="1540555105066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$03__.coverage" NAME="03-斐波那契数列-生成器实现 Coverage Results" MODIFIED="1540121945959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$03_.coverage" NAME="03-有参数无返回值 Coverage Results" MODIFIED="1541322870543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$06_map.coverage" NAME="06-map函数 Coverage Results" MODIFIED="1540555289062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$04_send.coverage" NAME="04-通过send启动生成器 Coverage Results" MODIFIED="1540134168184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$07_gevent.coverage" NAME="07-gevent Coverage Results" MODIFIED="1540138556416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+>>>>>>> d4bc9e2c98af32dd550b0409c1d9ef3a1450c081
     <SUITE FILE_PATH="coverage/Python_Study_Note$07_reduce.coverage" NAME="07-reduce函数 Coverage Results" MODIFIED="1540556196266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02__.coverage" NAME="02-斐波那契数列-迭代器实现 Coverage Results" MODIFIED="1540120229834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_.coverage" NAME="03-有参数无返回值 Coverage Results" MODIFIED="1541322870543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_Queue.coverage" NAME="03-多进程中通过Queue实现数据共享 Coverage Results" MODIFIED="1540086079259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Python_Study_Note$04_.coverage" NAME="04-用同一个装饰器对多个函数进行装饰 Coverage Results" MODIFIED="1541326100112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$03_163.coverage" NAME="03-匹配163邮箱地址 Coverage Results" MODIFIED="1540214206372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式" />
     <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-装饰器 Coverage Results" MODIFIED="1541326098221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
@@ -92,6 +103,19 @@
         </counts>
       </usages-collector>
     </session>
+=======
+    <SUITE FILE_PATH="coverage/Python_Study_Note$03_163.coverage" NAME="03-匹配163邮箱地址 Coverage Results" MODIFIED="1540214206372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/03 web服务器v3.1/01-正则表达式" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$08_.coverage" NAME="08-并发图片下载器 Coverage Results" MODIFIED="1540141079253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$01_.coverage" NAME="01-闭包 Coverage Results" MODIFIED="1541313632362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1542906754664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$001_mpl_squares.coverage" NAME="001_mpl_squares Coverage Results" MODIFIED="1543109953967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/数据可视化" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$excel.coverage" NAME="excel Coverage Results" MODIFIED="1542285101552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002个人项目/00010Python操作Excel" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$02__.coverage" NAME="02-斐波那契数列-迭代器实现 Coverage Results" MODIFIED="1540120229834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$02_.coverage" NAME="02-装饰器 Coverage Results" MODIFIED="1541326098221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$05_yield.coverage" NAME="05-使用yield完成多任务 Coverage Results" MODIFIED="1540135081964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$06_greenlet.coverage" NAME="06-greenlet Coverage Results" MODIFIED="1540137307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程" />
+    <SUITE FILE_PATH="coverage/Python_Study_Note$game_functions.coverage" NAME="game_functions Coverage Results" MODIFIED="1542905440235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien" />
+>>>>>>> d4bc9e2c98af32dd550b0409c1d9ef3a1450c081
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -106,6 +130,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>new_folder_name</find>
+      <find>_locate_stream(%s): seen&quot; %</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,12 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/02-通过队列完成进程中通信.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/03-多进程中通过Queue实现数据共享.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/04-进程池.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹靠背器.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py" />
-        <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/01-自己实现一个可以迭代的对象.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/03-斐波那契数列-生成器实现.py" />
@@ -162,9 +181,19 @@
         <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/04-用同一个装饰器对多个函数进行装饰.py" />
         <option value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/04-mini-web框架添加路由和MySQL功能/web_server.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/xlrd/compdoc.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/snip.py" />
+        <option value="$PROJECT_DIR$/002个人项目/00010Python操作Excel/excel.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/game_functions.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/setting.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/ship.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/数据可视化/00001.py" />
+        <option value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/数据可视化/001_mpl_squares.py" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -173,9 +202,12 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="803" />
+=======
+  <component name="ProjectFrameBounds">
+>>>>>>> d4bc9e2c98af32dd550b0409c1d9ef3a1450c081
     <option name="y" value="23" />
-    <option name="width" value="1117" />
-    <option name="height" value="978" />
+    <option name="width" value="1920" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -191,17 +223,6 @@
               <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Study-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Study-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="001黑马" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -216,9 +237,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/images" />
       <recent name="$PROJECT_DIR$/001黑马/2018/05 MySQL数据库v3.1/02-mysql查询" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien" />
+      <recent name="$PROJECT_DIR$/002个人项目/00010Python操作Excel" />
       <recent name="$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test" />
     </key>
   </component>
@@ -234,8 +258,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04-用同一个装饰器对多个函数进行装饰">
-    <configuration name="01-闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.001_mpl_squares">
+    <configuration name="001_mpl_squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,56 +267,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/数据可视化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/01-闭包.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01-单线程死循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/01-GIL锁" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/01-GIL锁/01-单线程死循环.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02-装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/02-装饰器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/数据可视化/001_mpl_squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,28 +303,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-有参数无返回值" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Study-Note" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="04-用同一个装饰器对多个函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -367,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-reduce函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Study-Note" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,12 +333,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001黑马/2018/04 Python高级语法v3.1/06-自习/07-闭包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002个人项目/00010Python操作Excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002个人项目/00010Python操作Excel/excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Study-Note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/game_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -390,19 +392,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.07-reduce函数" />
-      <item itemvalue="Python.01-闭包" />
-      <item itemvalue="Python.02-装饰器" />
-      <item itemvalue="Python.03-有参数无返回值" />
+      <item itemvalue="Python.001_mpl_squares" />
+      <item itemvalue="Python.02-返回浏览器需要的页面服务器" />
       <item itemvalue="Python.04-用同一个装饰器对多个函数进行装饰" />
+      <item itemvalue="Python.alien_invasion" />
+      <item itemvalue="Python.excel" />
+      <item itemvalue="Python.game_functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.001_mpl_squares" />
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.game_functions" />
+        <item itemvalue="Python.excel" />
         <item itemvalue="Python.04-用同一个装饰器对多个函数进行装饰" />
-        <item itemvalue="Python.02-装饰器" />
-        <item itemvalue="Python.03-有参数无返回值" />
-        <item itemvalue="Python.01-闭包" />
-        <item itemvalue="Python.07-reduce函数" />
       </list>
     </recent_temporary>
   </component>
@@ -416,18 +419,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540085125046</updated>
+      <workItem from="1543114237883" duration="21000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21000" />
+  </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26545843" />
+=======
+    <frame x="0" y="23" width="1920" height="975" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
+>>>>>>> d4bc9e2c98af32dd550b0409c1d9ef3a1450c081
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="1" y="509" width="751" height="493" id="Run" order="2" type="WINDOWED" weight="0.32947975" />
+      <window_info anchor="bottom" x="0" y="555" width="815" height="443" id="Run" order="2" type="WINDOWED" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,7 +449,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32947975" />
-      <window_info anchor="bottom" id="调试" order="11" weight="0.32911393" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.328341" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32947975" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -488,48 +501,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/02-通过队列完成进程中通信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/03-多进程中通过Queue实现数据共享.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/04-进程池.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/test/01-使用进程创建多任务.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/01-使用进程创建多任务.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/02-进程/05-文件夹拷贝器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001黑马/2018/02 多任务/03-协程/01-自己实现一个可以迭代的对象.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -807,6 +778,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/xlrd/compdoc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="425" column="96" lean-forward="true" selection-start-line="423" selection-start-column="14" selection-end-line="425" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/images/ship.bmp" />
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002个人项目/00010Python操作Excel/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/ship.py" />
+    <entry file="file://$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/game_functions.py" />
+    <entry file="file://$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/setting.py" />
+    <entry file="file://$PROJECT_DIR$/005Books/003Python编程：从入门到实践/001-alien/alien_invasion.py" />
+    <entry file="file://$PROJECT_DIR$/005Books/003Python编程：从入门到实践/数据可视化/001_mpl_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
